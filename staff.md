@@ -6,7 +6,9 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+
+For questions about course material or logistics, please use [Piazza]().
+For questions specific to you (for example, inquiring about a homework grade), please email the alias [llms-11-667@andrew.cmu.edu](mailto:llms-11-667@andrew.cmu.edu).
 
 ## Instructors
 

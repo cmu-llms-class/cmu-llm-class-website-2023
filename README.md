@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Large Language Models Methods and Applications
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,22 +8,17 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Github Repo for 11-667 at CMU
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This is the website repository for the Fall 2023 iteration of 11-667: Large Language Models Methods and Applications.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+# Acknowledgements
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+This repo is based off the [Just the Class](https://github.com/kevinlin1/just-the-class) Jekyll template, creared by Kevin Lin.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+Just the Class extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for simple websites. 
 
-## Getting Started
+# Getting Started
 
 Getting started with Just the Class is simple.
 
