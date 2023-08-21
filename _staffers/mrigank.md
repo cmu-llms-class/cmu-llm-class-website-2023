@@ -3,7 +3,7 @@ name: Mrigank Raman
 role: Teaching Assistant
 website: mrigankraman.github.io
 photo: mrigank.png
-office-hours: 
+office-hours: TODO
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->
