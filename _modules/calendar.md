@@ -52,7 +52,7 @@ Tuesday, Aug 29
 Thursday, Aug 31
 : Building Blocks of Modern LLMs: Training Methods and Data
   : [Slides](#)
-: Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
+: Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
 Tuesday, Sep 5
 : **HW1 OUT**{: .label .label-purple } Generation Before Large Language Models
