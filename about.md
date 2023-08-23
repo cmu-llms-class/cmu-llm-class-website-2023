@@ -1,10 +1,17 @@
 ---
-layout: page
-title: About
+layout: home
+title: Large Language Models Methods and Applications
+nav_exclude: true
+permalink: /:path/
+title: Syllabus
+seo:
+  type: Course
+  name: Just the Class
 description: >-
     Course policies and information.
 ---
 
+CsI4Uof6
 # About
 {:.no_toc}
 

@@ -5,7 +5,7 @@ description: >-
     Instructions for Homework 1
 ---
 
-# About
+# Homework 1
 {:.no_toc}
 
 ## Table of contents

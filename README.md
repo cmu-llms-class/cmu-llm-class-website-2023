@@ -1,13 +1,3 @@
----
-layout: home
-title: Large Language Models Methods and Applications
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
----
-
 # Github Repo for 11-667 at CMU
 
 This is the website repository for the Fall 2023 iteration of 11-667: Large Language Models Methods and Applications.
