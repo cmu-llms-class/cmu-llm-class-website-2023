@@ -55,39 +55,39 @@ Thursday, Aug 31
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
 Tuesday, Sep 5
-: **HW1 OUT**{: .label .label-purple } Generation Before Large Language Models
+: **HW1 OUT**{: .label .label-purple } Wrap up previous lectures, generation Before Large Language Models
   : [Slides](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 7
-: Evaluation of Modern LLMs 1: Automatic, Generation-based
+: Generation-based Automatic Evaluation Methods
   : [Slides](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 12
-: **PROJECT OUT**{: .label .label-blue } Evaluation of Modern LLMs 2: Automatic, Representation-based
+: **PROJECT OUT**{: .label .label-blue } Representation-based Automatic Evaluation Methods
   : [Slides](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 14
-: Evaluation of Modern LLMs 3: Human Evaluation
+: Human Evaluation Methods
   : [Slides](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 19
 : **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Control, Alignment, and “Emerging” Capabilities
   : [Slides](#)
-: **Fine tuning, zero-shot learning, and in-context Learning**
+: **Finetuning, Zero-shot Learning, and Prompt Engineering**
 : Readings: [TODO](#)
 
 Thursday, Sep 21
-: Control, Alignment, and “Emerging” Capabilities
+: Instruction Tuning, Alignment, RLHF, and “Emerging” Capabilities
   : [Slides](#)
 : **Parameter-efficient tuning methods**
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
-: Interpretation of Modern LLMs
+: Interpretability
   : [Slides](#)
 : Readings: [TODO](#)
 
@@ -97,12 +97,12 @@ Thursday, Sep 28
 : Readings: [TODO](#)
 
 Tuesday, Oct 3
-: LLM Applications 1: Chatbots, AIGC, Writing Assistance
+: Chatbots, AIGC, Writing Assistance
   : [Slides](#)
 : Readings: [TODO](#)
 
 Thursday, Oct 5
-: **HW2 DUE**{: .label .label-red } LLM Applications 2: Search, LLM as Interface
+: **HW2 DUE**{: .label .label-red } LLM for Search and Interfaces
   : [Slides](#)
 : Readings: [TODO](#)
 
@@ -112,7 +112,7 @@ Tuesday, Oct 10
 : Readings: [TODO](#)
 
 Thursday, Oct 12
-: LLMs beyond text: Code and tool use
+: LLMs for Code and Tool Use
   : [Slides](#)
 : Readings: [TODO](#)
 
@@ -127,17 +127,17 @@ Thursday, Oct 19
 : Readings: [TODO](#)
 
 Tuesday, Oct 24
-: LLMs beyond text: Music
+: LLMs for Music
   : [Slides](#)
 : Readings: [TODO](#)
 
 Thursday, Oct 26
-: **PROJECT MIDPOINT DUE**{: .label .label-blue }  Multi-model models and Real-World Interactions
+: **PROJECT MIDPOINT DUE**{: .label .label-blue }  Multi-modal models and Real-World Interactions
   : [Slides](#)
 : Readings: [TODO](#)
 
 Tuesday, Oct 31
-: Midpoint project presentations
+: Midpoint Project Presentations
   : [Slides](#)
 : Readings: [TODO](#)
 
@@ -162,12 +162,12 @@ Tuesday, Nov 14
 : Readings: [TODO](#)
 
 Thursday, Nov 16
-: **HW3 OUT**{: .label .label-yellow }  Efficient Scaling Up 1: Training and Model Augmentation
+: **HW3 OUT**{: .label .label-yellow }  Efficient Scaling Up: Training and Model Augmentation
   : [Slides](#)
 : Readings: [TODO](#)
 
 Tuesday, Nov 21
-: Efficient Scaling Up 2: Architecture, MoE, Sparity, Modularity
+: Efficient Scaling Up: Architecture, MoE, Sparity, Modularity
   : [Slides](#)
 : Readings: [TODO](#)
 
