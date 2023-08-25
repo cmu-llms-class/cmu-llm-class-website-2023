@@ -114,3 +114,5 @@ Using a language model to generate any part of a homework answer without attribu
 This means that if you use ChatGPT or CoPilot to assist you on a homework, you **must** state so explicitly within your response.
 On each homework, you will be asked to attest to whether you used LMs to assist on the homework, and if so, in what manner.
 
+If you have used AI systems to generate any part of your homework, you must also submit the prompts/instructions/inputs you used to obtain the generated output. Your grading will be based on both the correctness of the outputs and the quality of your prompts/instructions. Errors in the generated outputs are graded accordingly, and non-interesting prompts, e.g., merely putting in the homework questions to the language model, are not intellectual efforts and are unlikely to receive a good grade.
+
