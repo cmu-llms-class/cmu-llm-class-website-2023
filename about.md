@@ -49,7 +49,7 @@ Students who successfully complete this course will be able to:
 * Compare and contrast different models in the LLM ecosystem in order to determine the best model for any given task.
 * Implement and train a neural language model from scratch in Pytorch.
 * Utilize open-source libraries to finetune and do inference with popular pre-trained language models.
-* Have a thorough understanding of how to apply language models to a variety of downstream applications, and how decisions made during pre-training affect suitabilility for these tasks.
+* Understand how to apply language models to a variety of downstream applications, and how decisions made during pre-training affect suitability for these tasks.
 * Comprehend recent, academic papers on LLMs and have knowledge of the common terms used in them (alignment, scaling laws, RLHF, prompt engineering, instruction tuning, etc.)
 * Design new methodologies to leverage existing large scale language models in areas of their expertise/interests.
 

@@ -19,7 +19,7 @@
     {%- if page.section -%}
     <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
     {%- endif -%}
-    {%- if page.office-hours -%}
+    {%- if page.role == "Instructor" -%}
     <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
     {%- endif -%}
     {{ content }}
