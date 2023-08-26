@@ -1,7 +1,7 @@
 ---
 name: Aidan Yang
 role: Teaching Assistant
-website: [placeholder.com](https://aidanby.github.io/)
+website: https://aidanby.github.io/
 photo: placeholder.png
 office-hours: TODO
 ---

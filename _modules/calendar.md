@@ -45,12 +45,12 @@ Oct 9
 
 
 Tuesday, Aug 29
-: Building Blocks of Modern LLMs: Architectures and Inference Methods
+: Building Blocks of Modern LLMs
   : [Slides](#)
-: Readings: [TODO](#)
+: Readings: [Jurasky and Martin, Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 Thursday, Aug 31
-: Building Blocks of Modern LLMs: Training Methods and Data
+: LLM Training Methods and Data
   : [Slides](#)
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
@@ -162,12 +162,12 @@ Tuesday, Nov 14
 : Readings: [TODO](#)
 
 Thursday, Nov 16
-: **HW3 OUT**{: .label .label-yellow }  Efficient Scaling Up: Training and Model Augmentation
+: **HW3 OUT**{: .label .label-yellow } Industry Talk: Cohere; Efficient Scaling: Training and Model Augmentation
   : [Slides](#)
 : Readings: [TODO](#)
 
 Tuesday, Nov 21
-: Efficient Scaling Up: Architecture, MoE, Sparity, Modularity
+: Efficient Scaling: Architecture, MoE, Sparity, Modularity
   : [Slides](#)
 : Readings: [TODO](#)
 
