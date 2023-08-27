@@ -11,8 +11,7 @@ description: >-
     Course policies and information.
 ---
 
-CsI4Uof6
-# About
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -49,9 +48,9 @@ Students who successfully complete this course will be able to:
 * Compare and contrast different models in the LLM ecosystem in order to determine the best model for any given task.
 * Implement and train a neural language model from scratch in Pytorch.
 * Utilize open-source libraries to finetune and do inference with popular pre-trained language models.
-* Understand how to apply language models to a variety of downstream applications, and how decisions made during pre-training affect suitability for these tasks.
-* Comprehend recent, academic papers on LLMs and have knowledge of the common terms used in them (alignment, scaling laws, RLHF, prompt engineering, instruction tuning, etc.)
-* Design new methodologies to leverage existing large scale language models in areas of their expertise/interests.
+* Understand how to apply LLMs to a variety of downstream applications, and how decisions made during pre-training affect suitability for these tasks.
+* Read and comprehend recent, academic papers on LLMs and have knowledge of the common terms used in them (alignment, scaling laws, RLHF, prompt engineering, instruction tuning, etc.).
+* Design new methodologies to leverage existing large scale language models in novel ways.
 
 
 ## Prerequisites
@@ -85,8 +84,9 @@ Classes will be in person, every Tuesday and Thursday 2:00PM-3:20PM at Baker Hal
     * Midpoint report: 10%
     * Final report and presentation: 20%
     * Peer feedback: 5%
-* 5%: Class Participation
-    * Will be measured by in-class quiz participation and question-asking
+* 5%: In-Class Quizzes
+    * These will be given in the last 10 minutes of class.
+    * Only your top 20 quiz grades will be considered. (This means you can miss 6 quizzes and still get full marks.)
 * 20%: Midterm
 
 ## Late Policy
