@@ -1,5 +1,6 @@
 ---
 name: Srinivas Gowriraj
 role: Teaching Assistant
-photo: placeholder.png
+website: https://srinivas-gowriraj.github.io/
+photo: srinivas.jpg
 ---
