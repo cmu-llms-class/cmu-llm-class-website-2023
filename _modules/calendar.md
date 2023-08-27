@@ -75,15 +75,13 @@ Thursday, Sep 14
 : Readings: [TODO](#)
 
 Tuesday, Sep 19
-: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Control, Alignment, and “Emerging” Capabilities
+: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
   : [Slides](#)
-: **Finetuning, Zero-shot Learning, and Prompt Engineering**
 : Readings: [TODO](#)
 
 Thursday, Sep 21
-: Instruction Tuning, Alignment, RLHF, and “Emerging” Capabilities
+: Emerging Capabilities: Instruction Tuning, Alignment, RLHF, and Parameter-Efficient Tuning
   : [Slides](#)
-: **Parameter-efficient tuning methods**
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
@@ -132,7 +130,7 @@ Tuesday, Oct 24
 : Readings: [TODO](#)
 
 Thursday, Oct 26
-: **PROJECT MIDPOINT DUE**{: .label .label-blue }  Multi-modal models and Real-World Interactions
+: **PROJECT MIDPOINT DUE**{: .label .label-blue }  Multi-Modal Models and Real-World Interactions
   : [Slides](#)
 : Readings: [TODO](#)
 
@@ -152,6 +150,7 @@ Tuesday, Nov 7
 : Readings: [TODO](#)
 
 Thursday, Nov 9
+: **Industry Talk: Anthropic**
 : Scaling Up: Optimization Basics
   : [Slides](#)
 : Readings: [TODO](#)
@@ -162,7 +161,8 @@ Tuesday, Nov 14
 : Readings: [TODO](#)
 
 Thursday, Nov 16
-: **HW3 OUT**{: .label .label-yellow } Industry Talk: Cohere; Efficient Scaling: Training and Model Augmentation
+: **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**
+: Efficient Scaling: Training and Model Augmentation
   : [Slides](#)
 : Readings: [TODO](#)
 
