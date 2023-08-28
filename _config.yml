@@ -17,8 +17,8 @@ title: 11-667
 tagline: Large Language Models Methods and Appllications
 description: Language Technologies Institute, Fall 2023
 author: Daphne Ippolito and Chenyan Xiong
-baseurl: '/cmu-llm-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://cmu-llms.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
