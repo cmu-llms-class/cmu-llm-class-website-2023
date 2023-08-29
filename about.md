@@ -67,6 +67,10 @@ Classes will be in person, every Tuesday and Thursday 2:00PM-3:20PM at Baker Hal
 
 **Quizes**: Each class will start with an in-person quiz about the reading materials for the lecture or the material from previous lectures.
 
+**Interactive Activities**:
+There will be ungraded, interactive activities interspersed through the lectures.
+These will be things like discussing a topic from the class with those sitting near you or answering questions via polling software.
+
 **Homework**: There will be three homework assignments, to be completed individually.
 
 **Project**: There will be a group project with several checkpoints along the semester. The project will be completed in groups of 3-5 people. 
