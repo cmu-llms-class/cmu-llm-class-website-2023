@@ -85,7 +85,7 @@ Classes will be in person, every Tuesday and Thursday 2:00PM-3:20PM at Baker Hal
     * Peer feedback: 5%
 * 5%: In-Class Quizzes
     * These will be given in the last 10 minutes of class.
-    * Only your top 20 quiz grades will be considered. (This means you can miss 6 quizzes and still get full marks.)
+    * Only your top 20 quiz grades will be considered. (This means you can miss 5 quizzes and still get full marks.)
 * 20%: Midterm
 
 ## Late Policy
@@ -114,6 +114,16 @@ getchell@cmu.edu.
 If you have an accommodations letter from the Disability Resources office, we encourage you to discuss your accommodations and needs with us as early in the semester as possible.
 We will work with you to ensure that accommodations are provided as appropriate.
 
+## Policy on Missing Class
+
+There will be no makeups for the quizzes if you miss class.
+The graded quizes are intended to encourage class attendance and participation, as there will be a variety of ungraded interactive activites in class which are important to your learning experience.
+In keeping with the principles of universal design for learning, we intend to be flexible with the quizzes; you can miss up to 5 quizzess for any reason (religious observances, visa issues, illness, etc.) and still get full marks, as we will only grade your top 20.
+
+In extenuating circumstances where students have no option but to miss class (such as visa issues or a medical emergency), we may provide video recordings to individual students.
+If you need to request this, please email us llms-11-667 @ andrew.cmu.edu.
+We make no guarantees about the production quality or learning experience from these videos.
+
 ## Academic Integrity
 Please take some time to read through CMU's [Academic Integrity Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
 Students who violate this policy will be subject to the disciplinary actions described in the [Student Handbook](https://www.cmu.edu/student-affairs/theword/academic-discipline/index.html).
@@ -123,7 +133,7 @@ The three homeworks should be completed individually.
 However, we encourage you to ask questions on Piazza and in office hours.
 While you may discuss strategies amongst yourselves, all experiments and analyses should be your own.
 
-### On the Use of Language Models
+### Use of Language Models
 Using a language model to generate any part of a homework answer without attribution will be considered a violation of academic integrity.
 This means that if you use ChatGPT or CoPilot to assist you on a homework, you **must** state so explicitly within your response.
 On each homework, you will be asked to attest to whether you used AI systems to assist on the homework, and if so, in what manner.
