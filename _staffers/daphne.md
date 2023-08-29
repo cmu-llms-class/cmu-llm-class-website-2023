@@ -1,7 +1,7 @@
 ---
 name: Daphne Ippolito
 role: Instructor
-website: daphnei.com
+website: http://daphnei.com
 photo: daphne.png
 office-hours: Tuesdays 3:30-4:30 PM, GHC 6407
 ---
