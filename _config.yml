@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Canvas:
-    - 'TODO'
+    - 'https://canvas.cmu.edu/courses/36424/'
   Piazza:
     - 'TODO'
 footer_content:

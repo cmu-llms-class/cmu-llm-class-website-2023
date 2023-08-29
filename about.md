@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Large Language Models Methods and Applications
 nav_exclude: true
 permalink: /:path/
 title: Syllabus
@@ -11,7 +10,8 @@ description: >-
     Course policies and information.
 ---
 
-# Syllabus
+#  Large Language Models Methods and Applications
+
 {:.no_toc}
 
 ## Table of contents
@@ -22,7 +22,6 @@ description: >-
 
 ---
 
-#  Large Language Models Methods and Applications
 
 ## Important Details
 
