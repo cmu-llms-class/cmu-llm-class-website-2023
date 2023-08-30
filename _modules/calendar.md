@@ -46,7 +46,7 @@ Oct 9
 
 Tuesday, Aug 29
 : Building Blocks of Modern LLMs
-  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W1L1_course_intro.pptx.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W1L1_LM_fundamentals_and_transformer_architecture.pdf)
 : Readings: [Jurasky and Martin, Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 Thursday, Aug 31
