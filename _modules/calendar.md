@@ -51,152 +51,152 @@ Tuesday, Aug 29
 
 Thursday, Aug 31
 : LLM Training Methods and Data
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
 Tuesday, Sep 5
 : **HW1 OUT**{: .label .label-purple } Wrap up previous lectures, generation Before Large Language Models
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 7
 : Generation-based Automatic Evaluation Methods
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 12
 : **PROJECT OUT**{: .label .label-blue } Representation-based Automatic Evaluation Methods
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 14
 : Human Evaluation Methods
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 19
 : **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 21
 : Emerging Capabilities: Instruction Tuning, Alignment, RLHF, and Parameter-Efficient Tuning
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
 : Interpretability
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 28
 : **PROJECT PROPOSALS DUE**{: .label .label-blue } In-class Project Proposals
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Oct 3
 : Chatbots, AIGC, Writing Assistance
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Oct 5
 : **HW2 DUE**{: .label .label-red } LLM for Search and Interfaces
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Oct 10
 : MIDTERM
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Oct 12
 : LLMs for Code and Tool Use
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Oct 17
 : Fall break (no class)
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Oct 19
 : Fall break (no class)
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Oct 24
 : LLMs for Music
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Oct 26
 : **PROJECT MIDPOINT DUE**{: .label .label-blue }  Multi-Modal Models and Real-World Interactions
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Oct 31
 : Midpoint Project Presentations
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Nov 2
 : Scaling Up: Training Data and Scaling Laws
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Nov 7
 : Democracy day (no class)
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Nov 9
 : **Industry Talk: Anthropic**
 : Scaling Up: Optimization Basics
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Nov 14
 : Scaling Up: Parallel Training Methods
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Nov 16
 : **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**
 : Efficient Scaling: Training and Model Augmentation
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Nov 21
 : Efficient Scaling: Architecture, MoE, Sparity, Modularity
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Nov 23
 : Happy Thanksgiving (no class)
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Nov 28
 : Efficient Deployment
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Nov 30
 : **HW3 DUE**{: .label .label-yellow } Privacy, Security, and Legal Considerations
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Dec 5
 : Ethical Considerations and Model Bias
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Dec 7
 : Final Project Presentations
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Dec 7
 : Challenges and Frontiers: Business Venues
-  : [Slides](#)
+  : [Slides TBD](#)
 : Readings: [TODO](#)
