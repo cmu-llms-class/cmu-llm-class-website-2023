@@ -1,7 +1,7 @@
 ---
 name: Mrigank Raman
 role: Teaching Assistant
-website: mrigankraman.github.io
+website: http://mrigankraman.github.io
 photo: mrigank.jpeg
 ---
 
