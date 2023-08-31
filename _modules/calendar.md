@@ -50,42 +50,42 @@ Tuesday, Aug 29
 : Readings: [Jurasky and Martin, Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 Thursday, Aug 31
-: LLM Training Methods and Data
+: Transformer Archiecture, LLM Training Methods and Data
   : [Slides TBD](#)
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
 Tuesday, Sep 5
-: **HW1 OUT**{: .label .label-purple } Wrap up previous lectures, generation Before Large Language Models
+: **HW1 OUT**{: .label .label-purple } Wrap Up Training Methods and Data; Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 7
-: Generation-based Automatic Evaluation Methods
+: Emerging Capabilities: Instruction Tuning, RLHF, and Alignment
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 12
-: **PROJECT OUT**{: .label .label-blue } Representation-based Automatic Evaluation Methods
+: **PROJECT OUT**{: .label .label-blue } Interpretability
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 14
-: Human Evaluation Methods
+: Generation-based Automatic Evaluation Methods
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 19
-: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
+: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Representation-based Automatic Evaluation Methods
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Thursday, Sep 21
-: Emerging Capabilities: Instruction Tuning, Alignment, RLHF, and Parameter-Efficient Tuning
+:  Human Evaluation Methods
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
-: Interpretability
+: Generation before LLMs; Parameter-Efficient Tuning Methods
   : [Slides TBD](#)
 : Readings: [TODO](#)
 
