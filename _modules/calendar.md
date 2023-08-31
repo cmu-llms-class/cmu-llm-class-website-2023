@@ -100,7 +100,7 @@ Tuesday, Oct 3
 : Readings: [TODO](#)
 
 Thursday, Oct 5
-: **HW2 DUE**{: .label .label-red } LLM for Search and Interfaces
+: **HW2 DUE**{: .label .label-red } LLM for Search Engines
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
