@@ -51,7 +51,8 @@ Tuesday, Aug 29
 
 Thursday, Aug 31
 : Transformer Archiecture, LLM Training Methods and Data
-  <!-- : [Slides](#) -->
+  : [Slide 1](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_transformer_continued.pdf)
+  [Slide 2](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_Pretraining_Task.pdf)
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
 Tuesday, Sep 5
