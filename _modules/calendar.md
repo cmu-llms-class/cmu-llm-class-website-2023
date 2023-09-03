@@ -51,14 +51,14 @@ Tuesday, Aug 29
 
 Thursday, Aug 31
 : Transformer Archiecture, LLM Training Methods and Data
-  : [Slide 1](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_transformer_continued.pdf)
-  [Slide 2](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_Pretraining_Task.pdf)
+  : [Slides 1](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_transformer_continued.pdf)
+  [Slides 2](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_Pretraining_Task.pdf)
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
 
 Tuesday, Sep 5
 : **HW1 OUT**{: .label .label-purple } Wrap Up Training Methods and Data; Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [GPT-2 paper](Language Models are Unsupervised Multitask Learners), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
 Thursday, Sep 7
 : Emerging Capabilities: Instruction Tuning, RLHF, and Alignment
