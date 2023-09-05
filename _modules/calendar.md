@@ -50,20 +50,20 @@ Tuesday, Aug 29
 : Readings: [Jurasky and Martin, Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 Thursday, Aug 31
-: Transformer Archiecture, LLM Training Methods and Data
+: Transformer Archiecture, LLM Pretraining Methods
   : [Slides 1](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_transformer_continued.pdf)
   [Slides 2](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_Pretraining_Task.pdf)
-: Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461), [Overwijk et al.](https://arxiv.org/pdf/2211.15848.pdf)
+: Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461) 
 
 Tuesday, Sep 5
-: **HW1 OUT**{: .label .label-purple } Wrap Up Training Methods and Data; Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
+: **HW1 OUT**{: .label .label-purple } LLM Pretraining Data 
   <!-- : [Slides](#) -->
-: Readings: [GPT-2 paper](Language Models are Unsupervised Multitask Learners), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+: Readings: [ClueWeb22](https://arxiv.org/pdf/2211.15848.pdf), [Documenting C4](https://arxiv.org/pdf/2104.08758.pdf)
 
 Thursday, Sep 7
-: Emerging Capabilities: Instruction Tuning, RLHF, and Alignment
+: Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [GPT-2 paper](Language Models are Unsupervised Multitask Learners), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
 Tuesday, Sep 12
 : **PROJECT OUT**{: .label .label-blue } Interpretability
@@ -76,12 +76,12 @@ Thursday, Sep 14
 : Readings: [TODO](#)
 
 Tuesday, Sep 19
-: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Representation-based Automatic Evaluation Methods
+:  Representation-based Automatic Evaluation Methods
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Thursday, Sep 21
-:  Human Evaluation Methods
+: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Human Evaluation Methods
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
