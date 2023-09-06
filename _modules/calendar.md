@@ -61,7 +61,7 @@ Tuesday, Sep 5
 : Readings: [ClueWeb22](https://arxiv.org/pdf/2211.15848.pdf), [Documenting C4](https://arxiv.org/pdf/2104.08758.pdf)
 
 Thursday, Sep 7
-: Emerging Capabilities: Finetuning, Zero-shot Learning, and Prompt Engineering
+: In-Context Learning, Prompt Engineering, and Alignment
   <!-- : [Slides](#) -->
 : Readings: [GPT-2 paper](Language Models are Unsupervised Multitask Learners), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
