@@ -18,11 +18,9 @@ description: >-
 
 **This homework is due on Thursday, September 21 at 2 PM.**
 
-_Homework instructions last updated September 6._
+_(instructions last updated September 6)_
 
-## Intro
-
-## Getting Started with OpenAI's API
+# Intro
 
 In this homework, you will explore several ways OpenAI's GPT-3 models can be used to perform NLP and NLG (natural language generation) tasks.
 You will also build an understanding of some of the limitations of large language models.
@@ -31,7 +29,9 @@ You do not turn in any code for this assignment.
 Instead you will write a report discussing your observations for each question.
 Your report should have clear section headers for each question and subquestion.
 When appropriate, you should use figures and tables to support your answers.
-You should submit your report to us as a PDF.
+You should submit your report as a PDF using the Canvas homework submission form.
+
+## Getting Started with OpenAI's API
 
 We have provided you an IPython notebook with starter code which you may use to solve the problems in the homework.
 The IPython notebook contains a simple interface for interacting with OpenAI's models.
@@ -40,10 +40,11 @@ This is the last model OpenAI released which didn't have any finetuning for alig
 OpenAI has three other smaller model sizes you will be asked to compare against; in order from smallest to biggest these are
 ``ada``, ``babbage``, and ``curie``.
 For example, to swap to ada, you would recreate the inference engine using ``engine = OpenAIEngine('ada')``.
-
 For the final problem in the homework, you will be asked to compare `davinci` with `text-davinci-003`, a variant of GPT-3 which was finetuned for instruction following.
 
 Note that we are choosing to use slightly older versions of GPT-3's models in this homework because there tends to be more information about how the older models were trained than there is for OpenAI's newer ones.
+
+If you feel uncomfortable creating an account with OpenAI in order to complete the homework, please email the professors at llms-11-667 @ andrew.cmu.edu, and we will help come up with an alternative arrangement for model inference. This will not affect your homework grade.
 
 ## Disclaimer
 As you all know by know, 11-667 is a completely new course, and you are guinea-pigging a completely new homework!
@@ -52,9 +53,9 @@ That being said, we are also giving you freedom to experiment and get creative w
 If you are struggling to get the LLM to behave in a way that allows you to answer any of the homework problems, please post on Piazza.
 Also, we would love any feedback on how to make this homework better for future students taking the class.
 
-## 1. Observing the Impact of Decoding Strategy
+# 1. Observing the Impact of Decoding Strategy
 
-### 1.1 Rolling a Twenty-Sided Die
+## 1.1 Rolling a Twenty-Sided Die
 
 In this question, you will investigate the impact of the choice of decoding strategy by examining prompts which ought to yield a relatively uniform distribution over a set of possible outcomes.
 
@@ -75,11 +76,8 @@ This should give you a distribution over outcomes the LLM is capable of generati
 You should use plots or other visualizations of the output distributions to support your answer.
 You will be graded on the correctness and thoroughness of your responses.
 
-## 
-If you feel uncomfortable creating an account with OpenAI in order to complete the homework, please email the professors at llms-11-667 @ andrew.cmu.edu, and we will help come up with an alternative arrangement. This will not affect your homework grade.
 
-
-### 1.2 Longform Generation
+## 1.2 Longform Generation
 
   
 Using a prompt of your choice, instruct the language model to generate a 256-token story.
@@ -94,7 +92,7 @@ You should now in total have 6 generations.
 2. Regarding your second prompt, did the language model generate the correct continuation of the book/speech? Provide reasoning as to why it may or may not have done so.
 3. When `top_p`=0, does adjusting the `frequency_penalty` increase the lexical diversity of the stories? Explain why or why not this is the case.
 
-## 2. Measuring Perplexity
+# 2. Measuring Perplexity
 Perplexity is a key metric to evaluate the quality of an LLM.
 Intuitively, to be "perplexed" means to be surprised.
 We use perplexity to measure how much the model is surprised by seeing new data.
@@ -112,7 +110,7 @@ Copy and paste this poem into the starter code in the IPython notebook and compu
 3. Famous poems like the one you are using are very likely to be in GPT-3's training set. How might this affect the poem's perplexity compared to a very new poem 
 which is not yet in any training set? 
 
-## 3. Experimenting with Few-Shot Prompting
+# 3. Experimenting with Few-Shot Prompting
 
 Few-shot learning with language models, sometimes called in-context learning, involves "teaching" a language model how to do a task by providing an instruction along with several examples of the task as a textual prompt.
 For example, to get a model to translate the word "squirrel" into Chinese, you might pass the LLM the prompt:
@@ -129,7 +127,7 @@ squirrel ->
 
 In this section, you will use this technique for two tasks: (1) to evaluate the model's common-sense reason abilities and (2) to build a pun explainer.
 
-### 3.1 Few-Shot Learning for the Choice of Plausible Alternatives Task
+## 3.1 Few-Shot Learning for the Choice of Plausible Alternatives Task
 Many probe tasks have been proposed to evaluate the commonsense reasoning capabilities of
 LLMs.
 We will use the [Choice of Plausible Alternatives](https://aclanthology.org/S12-1052/) (COPA) probe task from the [SuperGLUE](https://super.gluebenchmark.com/)
@@ -177,7 +175,7 @@ You may either write your own examples from scratch, or take examples from the t
 4. For your best prompt, perform an error analysis of the test set examples it gets wrong. Qualitivaly, do you notice any patterns in the examples the model fails to classify correctly? 
 5. Try our your best few-shot prompt from Question with the three smaller model sizes: ``curie``, ``babbage`` and ``ada``. How much does test set accuracy degrade on the smaller models? What is the smallest model size you can get away with and have good accuracy?
 
-### 3.2 Few-shot Learning for Generation Tasks
+## 3.2 Few-shot Learning for Generation Tasks
 Few-shot learning techniques can also be used fo tasks that require generation.
 Choose one of the following sentence manipulation tasks, and try to write a few-shot prompt to get the model to do the task.
 
@@ -190,12 +188,12 @@ c. Apply a specified Caesar cipher[https://en.wikipedia.org/wiki/Caesar_cipher]
 2. The three tasks listed above all require character-level manipulations. Why might such tasks be challenging for many modern large language models?
 
 
-## 4 Investigating Knowledge Across Different Model Sizes
+# 4. Investigating Knowledge Across Different Model Sizes
 
 Pick a Wikipedia article on a person or place of your choice, and write a prompt containing the start of the first sentence in the article.
 You may choose to omit the pronunciation and other parenthetical details).
 For example, if you choose [Andrew Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie), you should prompt with either `Andrew Carnegie (Scots: [kɑrˈnɛːɡi], English: /kɑːrˈnɛɡi/ kar-NEG-ee;[2][3][note 1] November 25, 1835 – August 11, 1919) was` or `Andrew Carnegie was an` or similar.
-Use this prompt with both `davinci` (the largest version of GPT-2) and `ada` (the smallest version of GPT-3), each time generating 300 tokens.
+Use this prompt with both `davinci` (the largest version of GPT-3) and `ada` (the smallest version of GPT-3), each time generating 300 tokens.
 
 **Analysis Questions**
 
@@ -207,21 +205,21 @@ For example, if the model generates `Andrew Carnegie was an American composer wh
 4. Create a sentence-long Wikipedia-sounding prompt that is completely wrong or else about a fictional person or place, for example `Bruce Lee was the 44th president of the United States from 2009 to 2017`. Prompt both model sizes with the sentence. Do both models write continuations in the same style?
 5. Discuss the challenges in building an LLM that can simultaneously respond well to factual prompts as well as fantastical ones.  What kind of training data do you think, if initially given to the model at training time, would have made it better at supporting both use cases? 
 
-## 4. Comparing Pre-Trained and Fine-tuned Models
+# 5. Comparing Pre-Trained and Fine-tuned Models
 
 The model ``text-davinci-003`` is a variant of GPT-3 which was finetuned for instruction following, using the methods described in the paper ["Training language models to follow instructions with human feedback"](https://arxiv.org/abs/2203.02155). Experiment with writing prompts for the following tasks using both models.
 
 - Writing a recipe for a food of your choice.
 - Explaining the rules for a sport or game of your choice.
-- Continuing a Wikipedia article of your choice, conditioned on the first sentence in the article. (You may re-use your fantastical prompt from Question 4.)
+- Continuing a Wikipedia article of your choice, conditioned on the first sentence in the article. (You may also choose to re-use your fantastical prompt from Question 4.)
 
 **Analysis Questions**
 1. Provide the prompts you decided on and their generations.
 2. What do you notice about the differences in the behaviour between the two models? Summarize the advantages and disadvantages of using a model finetuned for instruction following.
 
-## 5. Acknowledgment of AI Tools
+# 6. Acknowledgment of AI Tools
 
 If you used ChatGPT or another AI to write any portion of your answers, please use this section to describe the prompts you employed and your methodology for developing them. You do not need to write anything here if you only used LLMs to run experiments as specified in the homework problem instructions.
 
-## 6. Optional: Give us Feedback
+# 7. Optional: Give us Feedback
 Was this homework enjoyable? Was it too easy or too hard? Do you have any suggestions for making the homework run more smoothly? Giving us feedback is compeltely optional and will not factor into your grade.
