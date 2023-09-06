@@ -33,8 +33,8 @@ You should submit your report as a PDF using the Canvas homework submission form
 
 ## Getting Started with OpenAI's API
 
-We have provided you an IPython notebook with starter code which you may use to solve the problems in the homework.
-The IPython notebook contains a simple interface for interacting with OpenAI's models.
+We have provided you an [IPython notebook](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_starter_code.ipynb) with starter code which you may use to solve the problems in the homework.
+The [IPython notebook](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_starter_code.ipynb) contains a simple interface for interacting with OpenAI's models.
 Unless otherwise specified, you should use the model `davinci` in your experimentation.
 This is the last model OpenAI released which didn't have any finetuning for alignment.
 OpenAI has three other smaller model sizes you will be asked to compare against; in order from smallest to biggest these are
@@ -63,7 +63,7 @@ Consider the task of rolling a 20-sided die.
 In the real world, you should expect that after rolling a fair 20-sided die 100 times, you will observe each possible outcome about 5 times.
 Your goal for this homework question is to understand how the choice of decoding strategy can influence how far an LLM's generations deviate from real-world assumptions.
 
-Take a look at Section 1 in the IPython notebook.
+Take a look at Section 1 in the [IPython notebook](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_starter_code.ipynb).
 It contains a prompt which rolls a D20 (aka a twenty-sided die) using a model finetuned for dialog.
 You may use the prompt provided there, or try to construct your own.
 Run the language model with the D20-rolling prompt 128 times using full random sampling (`top_p = 1.0`).
@@ -101,7 +101,7 @@ The higher the perplexity, the less confident the model is that the data is like
 
 In this question, you will evaluate perplexity of several variations of a poem of your choice.
 Go to [this list of famous poems](https://www.poetrysoup.com/famous/poems/top_100_famous_poems.aspx) and pick your favorite.
-Copy and paste this poem into the starter code in the IPython notebook and compute the poem's perplexity.
+Copy and paste this poem into the starter code in the [IPython notebook](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_starter_code.ipynb) and compute the poem's perplexity.
 
 **Analysis Questions**
 1. Add a typo to each line of the poem. Does the perplexity go up or down? Give a reason for why this might have happened.
@@ -141,12 +141,12 @@ Question: What was the CAUSE of this?
 (b) He dropped a hammer on his foot.
 ```
 
-The IPython notebook loads in three small subsets of COPA:
+The [IPython notebook](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_starter_code.ipynb) loads in three small subsets of COPA:
 1. `train`: You may use this as a source of examples for your few-shot prompts.
 2. `dev`: You should use this to compare different prompts to come up with good ones.
 3. `test`: Once you are happy with your prompts, you should evaluate on `test` just once. You should include the accuracies on `test` in your final report.
 
-Take a look at the starter code in the IPython notebook.
+Take a look at the starter code in the [IPython notebook](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_starter_code.ipynb).
 The prompt in the notebook provides an instruction, but no examples.
 This is known as a "zero-shot" setting since no examples are provided.
 
