@@ -57,7 +57,7 @@ Thursday, Aug 31
 
 Tuesday, Sep 5
 : **HW1 OUT**{: .label .label-purple } LLM Pretraining Data 
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W2L1_pretraining_data.pdf)
 : Readings: [ClueWeb22](https://arxiv.org/pdf/2211.15848.pdf), [Documenting C4](https://arxiv.org/pdf/2104.08758.pdf)
 
 Thursday, Sep 7
