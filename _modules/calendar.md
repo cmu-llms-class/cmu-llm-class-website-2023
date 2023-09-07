@@ -63,7 +63,7 @@ Tuesday, Sep 5
 Thursday, Sep 7
 : In-Context Learning, Prompt Engineering, and Alignment
   <!-- : [Slides](#) -->
-: Readings: [GPT-2 paper](Language Models are Unsupervised Multitask Learners), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+: Readings: [GPT-2 paper]([Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
 Tuesday, Sep 12
 : **PROJECT OUT**{: .label .label-blue } Interpretability
