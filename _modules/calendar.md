@@ -50,7 +50,7 @@ Tuesday, Aug 29
 : Readings: [Jurasky and Martin, Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 Thursday, Aug 31
-: Transformer Archiecture, LLM Pretraining Methods
+: Transformer Architecture, LLM Pretraining Methods
   : [Slides 1](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_transformer_continued.pdf)
   [Slides 2](https://www.andrew.cmu.edu/course/11-667/lectures/W1L2_Pretraining_Task.pdf)
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461) 
