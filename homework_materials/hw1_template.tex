@@ -19,7 +19,8 @@
 
 \usepackage[all]{nowidow} % Tries to remove widows
 \usepackage[protrusion=true,expansion=true]{microtype} % Improves typography, load after fontpackage is selected
-
+\usepackage[mmddyyyy]{datetime}
+\usepackage{tcolorbox}
 
 
 %-----------------------
@@ -38,16 +39,21 @@ pdfauthor = {}
 
 \title{11-667 Homework 1}
 \author{Student Name, Andrew ID}
+\date{Due date: September 21, 2023 at 2 PM}
 \maketitle
 
 \section{Observing the Impact of Decoding Strategy}
 \subsection{Rolling a Twenty-Sided Die}
 \subsection{Longform Generation}
 
+Here is a suggestion for how you can add generations into your latex.
+\begin{tcolorbox}[width=\textwidth,title={Prompt=Lorem ipsum, top-p=0},]
+dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\end{tcolorbox}
+
 \section{Measuring Perplexity}
 
 \section{Experimenting with Few-Shot Prompting}
-
 
 \section{Investigating Knowledge Across Different Model Sizes}
 \subsection{Few-Shot Learning for the Choice of Plausible Alternatives Task}
