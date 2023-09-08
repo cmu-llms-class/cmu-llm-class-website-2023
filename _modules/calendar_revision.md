@@ -23,7 +23,7 @@ Thursday, Sep 7
 Tuesday, Sep 12
 : **PROJECT OUT**{: .label .label-blue } Interpretability
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Edge Prbing](https://arxiv.org/abs/1905.06316), [Loss Landscape](https://arxiv.org/abs/1712.09913)
 
 Thursday, Sep 14
 : Generation-based Automatic Evaluation Methods
