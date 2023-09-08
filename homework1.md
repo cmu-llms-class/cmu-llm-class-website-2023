@@ -83,7 +83,7 @@ You will be graded on the correctness and thoroughness of your responses.
 Using a prompt of your choice, instruct the language model to generate a 256-token story.
 Repeat this process three times, employing three different `top_p` values: 0.0, 0.5, and 1. Feel free to get as creative as you want with your prompt.
   
-Next, prompt the language model with the opening sentence from a renowned book or speech and request it to generate 256 tokens. You can select one [this list of famous opening paragraphs](https://www.shortlist.com/lists/literatures-greatest-opening-paragraphs), [this list of famous speeches](https://www.historyplace.com/speeches) or find your own. Do this three times with three different `top_p` values of 0.0, 0.5, and 1.
+Next, prompt the language model with the opening sentence from a renowned book or speech and request it to generate 256 tokens. You can select from [this list of famous opening paragraphs](https://www.shortlist.com/lists/literatures-greatest-opening-paragraphs) or [this list of famous speeches](https://www.historyplace.com/speeches) or find your own. Do this three times with three different `top_p` values of 0.0, 0.5, and 1.
 
 You should now in total have 6 generations.
 
