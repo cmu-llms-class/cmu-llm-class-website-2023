@@ -57,7 +57,7 @@ Thursday, Aug 31
 
 Tuesday, Sep 5
 : **HW1 OUT**{: .label .label-purple } LLM Pretraining Data 
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W2L1_pretraining_data.pdf)
 : Readings: [ClueWeb22](https://arxiv.org/pdf/2211.15848.pdf), [Documenting C4](https://arxiv.org/pdf/2104.08758.pdf)
 
 Thursday, Sep 7
@@ -68,7 +68,7 @@ Thursday, Sep 7
 Tuesday, Sep 12
 : **PROJECT OUT**{: .label .label-blue } Interpretability
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Edge Prbing](https://arxiv.org/abs/1905.06316), [Loss Landscape](https://arxiv.org/abs/1712.09913)
 
 Thursday, Sep 14
 : Generation-based Automatic Evaluation Methods

@@ -1,0 +1,70 @@
+%--------------------
+% Packages
+% -------------------
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{gentium}
+\usepackage{mathptmx} % Use Times Font
+
+\usepackage[pdftex]{graphicx} % Required for including pictures
+\usepackage[swedish]{babel} % Swedish translations
+\usepackage[pdftex,linkcolor=black,pdfborder={0 0 0}]{hyperref} % Format links for pdf
+\usepackage{calc} % To reset the counter in the document after title page
+\usepackage{enumitem} % Includes lists
+\frenchspacing % No double spacing between sentences
+\linespread{1.2} % Set linespace
+\usepackage[a4paper, lmargin=0.1666\paperwidth, rmargin=0.1666\paperwidth, tmargin=0.1111\paperheight, bmargin=0.1111\paperheight]{geometry} %margins
+%\usepackage{parskip}
+
+\usepackage[all]{nowidow} % Tries to remove widows
+\usepackage[protrusion=true,expansion=true]{microtype} % Improves typography, load after fontpackage is selected
+\usepackage[mmddyyyy]{datetime}
+\usepackage{tcolorbox}
+
+
+%-----------------------
+% Set pdf information and add title, fill in the fields
+%-----------------------
+\hypersetup{ 	
+pdfsubject = {},
+pdftitle = {11-667 Homework 1},
+pdfauthor = {}
+}
+
+%-----------------------
+% Begin document
+%-----------------------
+\begin{document} 
+
+\title{11-667 Homework 1}
+\author{Student Name, Andrew ID}
+\date{Due date: September 21, 2023 at 2 PM}
+\maketitle
+
+\section{Observing the Impact of Decoding Strategy}
+\subsection{Rolling a Twenty-Sided Die}
+\subsection{Longform Generation}
+
+Here is a suggestion for how you can add generations into your latex.
+\begin{tcolorbox}[width=\textwidth,title={Prompt=Lorem ipsum, top-p=0},]
+dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\end{tcolorbox}
+
+\section{Measuring Perplexity}
+
+\section{Experimenting with Few-Shot Prompting}
+
+\section{Investigating Knowledge Across Different Model Sizes}
+\subsection{Few-Shot Learning for the Choice of Plausible Alternatives Task}
+\subsection{Few-shot Learning for Generation Tasks}
+
+\section{Comparing Pre-Trained and Fine-tuned Models}
+
+\section{Acknowledgment of AI Tools}
+
+\section{Optional Question: Give us Feedback}
+
+
+
+\end{document}

@@ -18,6 +18,9 @@ description: >-
 
 **This homework is due on Thursday, September 21 at 2 PM.**
 
+[Submission Tex Template](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_template.tex)
+You are not required to follow this template for submission, but it is here for your convenience.
+
 _(instructions last updated September 6)_
 
 # Intro
@@ -83,7 +86,7 @@ You will be graded on the correctness and thoroughness of your responses.
 Using a prompt of your choice, instruct the language model to generate a 256-token story.
 Repeat this process three times, employing three different `top_p` values: 0.0, 0.5, and 1. Feel free to get as creative as you want with your prompt.
   
-Next, prompt the language model with the opening sentence from a renowned book or speech and request it to generate 256 tokens. You can select one [this list of famous opening paragraphs](https://www.shortlist.com/lists/literatures-greatest-opening-paragraphs), [this list of famous speeches](https://www.historyplace.com/speeches) or find your own. Do this three times with three different `top_p` values of 0.0, 0.5, and 1.
+Next, prompt the language model with the opening sentence from a renowned book or speech and request it to generate 256 tokens. You can select from [this list of famous opening paragraphs](https://www.shortlist.com/lists/literatures-greatest-opening-paragraphs) or [this list of famous speeches](https://www.historyplace.com/speeches) or find your own. Do this three times with three different `top_p` values of 0.0, 0.5, and 1.
 
 You should now in total have 6 generations.
 
