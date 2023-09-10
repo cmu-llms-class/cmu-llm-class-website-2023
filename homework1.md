@@ -24,7 +24,7 @@ You are not required to follow this template for submission, but it is here for 
 _(instructions last updated September 10)_
 
 # September 10 Update
-The starter code has been updated to fix a bug in Questino 3.1 as noted in the Piazza.
+The starter code has been updated to fix a bug in Question 3.1 as noted in the Piazza.
 
 Anywhere in the homework which instructs you to use ``davinci``, you may use `davinci-002` instead, which costs 1/10 as much.
 You can see the pricing of the different models at https://openai.com/pricing.
