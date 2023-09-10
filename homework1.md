@@ -21,7 +21,15 @@ description: >-
 [Submission Tex Template](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_template.tex)
 You are not required to follow this template for submission, but it is here for your convenience.
 
-_(instructions last updated September 6)_
+_(instructions last updated September 10)_
+
+# September 10 Update
+The starter code has been updated to fix a bug in Questino 3.1 as noted in the Piazza.
+
+Anywhere in the homework which instructs you to use ``davinci``, you may use `davinci-002` instead, which costs 1/10 as much.
+You can see the pricing of the different models at https://openai.com/pricing.
+Just make a note in your homework of which model you are using.
+
 
 # Intro
 
