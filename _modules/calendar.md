@@ -58,12 +58,12 @@ Thursday, Aug 31
 
 Tuesday, Sep 5
 : LLM Pretraining Data **HW1 OUT**{: .label .label-purple } 
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W2L1_pretraining_data.pdf)
 : Readings: [ClueWeb22](https://arxiv.org/pdf/2211.15848.pdf), [Documenting C4](https://arxiv.org/pdf/2104.08758.pdf)
 
 Thursday, Sep 7
 : In-Context Learning, Prompt Engineering, and Alignment
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W2L2_prompt_engineering_alignment.pdf)
 : Readings: [GPT-2 paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
 Tuesday, Sep 12
