@@ -44,6 +44,7 @@ Oct 9
 : **HW 2 due**{: .label .label-red } -->
 
 
+
 Tuesday, Aug 29
 : Building Blocks of Modern LLMs
   : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W1L1_LM_fundamentals_and_transformer_architecture.pdf)
@@ -56,8 +57,8 @@ Thursday, Aug 31
 : Readings: [Dai and Le](https://arxiv.org/abs/1511.01432), [Radford et al.](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Lewis et al.](https://arxiv.org/abs/1910.13461) 
 
 Tuesday, Sep 5
-: **HW1 OUT**{: .label .label-purple } LLM Pretraining Data 
-  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W2L1_pretraining_data.pdf)
+: LLM Pretraining Data **HW1 OUT**{: .label .label-purple } 
+  <!-- : [Slides](#) -->
 : Readings: [ClueWeb22](https://arxiv.org/pdf/2211.15848.pdf), [Documenting C4](https://arxiv.org/pdf/2104.08758.pdf)
 
 Thursday, Sep 7
@@ -86,22 +87,22 @@ Thursday, Sep 21
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
-: Generation before LLMs; Parameter-Efficient Tuning Methods
+: Generation before LLMs; Parameter-Efficient Tuning Methods **PROJECT PROPOSALS DUE**{: .label .label-blue }
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Thursday, Sep 28
-: **PROJECT PROPOSALS DUE**{: .label .label-blue } In-class Project Proposals
+: In-class Project Proposals 
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Tuesday, Oct 3
-: Chatbots, AIGC, Writing Assistance
+: **Industry Talk: Together.ai**; Chatbots, AIGC, Writing Assistance
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Thursday, Oct 5
-: **HW2 DUE**{: .label .label-red } LLM for Search Engines
+: LLM for Search Engines
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -111,7 +112,7 @@ Tuesday, Oct 10
 : Readings: [TODO](#)
 
 Thursday, Oct 12
-: LLMs for Code and Tool Use
+: LLMs Beyond Text: Music (Guest Lecture) **HW2 DUE**{: .label .label-red } 
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -126,12 +127,12 @@ Thursday, Oct 19
 : Readings: [TODO](#)
 
 Tuesday, Oct 24
-: LLMs for Music
+: Scaling Up: Scaling Laws
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Thursday, Oct 26
-: **PROJECT MIDPOINT DUE**{: .label .label-blue }  Multi-Modal Models and Real-World Interactions
+: Multi-Modal Models and Real-World Interactions (Guest Lecture) **PROJECT MIDPOINT DUE**{: .label .label-blue }  
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -141,7 +142,7 @@ Tuesday, Oct 31
 : Readings: [TODO](#)
 
 Thursday, Nov 2
-: Scaling Up: Training Data and Scaling Laws
+: Scaling Up: Optimization Basics
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -151,24 +152,22 @@ Tuesday, Nov 7
 : Readings: [TODO](#)
 
 Thursday, Nov 9
-: **Industry Talk: Anthropic**
-: Scaling Up: Optimization Basics
+: **Industry Talk: Anthropic**; Scaling Up: Parallel Training Methods
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Tuesday, Nov 14
-: Scaling Up: Parallel Training Methods
-  <!-- : [Slides](#) -->
-: Readings: [TODO](#)
-
-Thursday, Nov 16
-: **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**
 : Efficient Scaling: Training and Model Augmentation
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
+Thursday, Nov 16
+: **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**; Efficient Scaling: Architecture, MoE, Sparity, Modularity
+  <!-- : [Slides](#) -->
+: Readings: [TODO](#)
+
 Tuesday, Nov 21
-: Efficient Scaling: Architecture, MoE, Sparity, Modularity
+: Efficient Serving (Guest Lecture)
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -178,7 +177,7 @@ Thursday, Nov 23
 : Readings: [TODO](#)
 
 Tuesday, Nov 28
-: Efficient Deployment
+: LLMs for Code and Tool Use (Guest Lecture)
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -188,16 +187,11 @@ Thursday, Nov 30
 : Readings: [TODO](#)
 
 Tuesday, Dec 5
-: Ethical Considerations and Model Bias
+: Ethical Considerations and Model Bias (Guest Lecture)
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Thursday, Dec 7
 : Final Project Presentations
-  <!-- : [Slides](#) -->
-: Readings: [TODO](#)
-
-Thursday, Dec 7
-: Challenges and Frontiers: Business Venues
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
