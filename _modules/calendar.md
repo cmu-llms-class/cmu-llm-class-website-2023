@@ -74,7 +74,7 @@ Tuesday, Sep 12
 Thursday, Sep 14
 : Generation-based Automatic Evaluation Methods
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [GEM Benchmark](https://arxiv.org/pdf/2102.01672.pdf), [Evaluation Challenges](http://aclanthology.lst.uni-saarland.de/D17-1238.pdf)
 
 Tuesday, Sep 19
 :  Representation-based Automatic Evaluation Methods
