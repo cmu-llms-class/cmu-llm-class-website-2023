@@ -68,7 +68,7 @@ Thursday, Sep 7
 
 Tuesday, Sep 12
 : **PROJECT OUT**{: .label .label-blue } Interpretability
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W3L1%20Interpretation.pdf)
 : Readings: [Edge Probing](https://arxiv.org/abs/1905.06316), [Loss Landscape](https://arxiv.org/abs/1712.09913)
 
 Thursday, Sep 14
