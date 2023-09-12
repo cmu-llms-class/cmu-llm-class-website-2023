@@ -8,7 +8,7 @@ description: >-
 # 11-667 Projects
 {:.no_toc}
 
-# Logistics:
+## Logistics:
 Team: Forming a team of 3-5 people. Four is recommended.
 
 ## Checkpoints: 
@@ -38,10 +38,15 @@ The final project is expected to be a novel contribution, either to fundamental 
 
 ## Grading Rubric: 
 The effort on the project of each individual team member [20%, different to each member]
+
 The completeness of the project [20%]
+
 Project proposal report [5%]
+
 Project midterm report [10%]
+
 Project final report write-up [30%]
+        
 Project spotlight, Midterm presentation and final presentation [5% each for a total of 15%]
 Bonus: the potential impact of the project idea when fully flushed out. [+10 extra %]
 
@@ -56,8 +61,10 @@ B+: An idea that is novel, but the results may not be there yet, or the analysis
 B or B-: Results, analysis, or novelty are lacking.
 
 C+ or below: Clear lack of effort or incompleteness.
+
 Negative Results: Sometimes experiments don’t work as planned. If you try hard to get positive results but are not successful, you may still get a good grade by clearly describing why you thought your methods would work, and then performing an analysis of why your initial assumptions were incorrect, leading to results that did not match your initial expectations. The bar for paper writing, experimentation, and analysis will be a bit higher in these cases, as we want to make sure that you really made a serious effort.
 
 ### Example project ideas:
 
-We will gradually share example project ideas on Piazza or Canvas with you. These ideas are for reference. You can choose one of these example ideas (we do not guarantee any of these ideas will work out, same with all research ideas) or build something of your own.
+We will gradually share example project ideas on Piazza or Canvas with you. These ideas are for reference. 
+You can choose one of these example ideas (we do not guarantee any of these ideas will work out, same with all research ideas) or build something of your own.
