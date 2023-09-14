@@ -157,7 +157,7 @@ Thursday, Nov 9
 : Readings: [TODO](#)
 
 Tuesday, Nov 14
-: Efficient Scaling: Training and Model Augmentation
+: **Industry Talk: LLaMA2**; Efficient Scaling: Training and Model Augmentation
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
