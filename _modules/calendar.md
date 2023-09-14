@@ -82,12 +82,12 @@ Tuesday, Sep 19
 : Readings: [TODO](#)
 
 Thursday, Sep 21
-: **HW1 DUE**{: .label .label-purple } **HW2 OUT**{: .label .label-red } Human Evaluation Methods
+: Human Evaluation Methods
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
-: Generation before LLMs; Parameter-Efficient Tuning Methods **PROJECT PROPOSALS DUE**{: .label .label-blue }
+: Generation before LLMs; Parameter-Efficient Tuning Methods **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } **HW2 OUT**{: .label .label-red } 
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
