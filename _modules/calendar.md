@@ -73,7 +73,7 @@ Tuesday, Sep 12
 
 Thursday, Sep 14
 : Generation-based Automatic Evaluation Methods
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W3L2_Automatic%20evaluation%20of%20LLMs.pdf)
 : Readings: [GEM Benchmark](https://arxiv.org/pdf/2102.01672.pdf), [Evaluation Challenges](http://aclanthology.lst.uni-saarland.de/D17-1238.pdf)
 
 Tuesday, Sep 19
