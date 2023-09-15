@@ -77,12 +77,12 @@ Thursday, Sep 14
 : Readings: [GEM Benchmark](https://arxiv.org/pdf/2102.01672.pdf), [Evaluation Challenges](http://aclanthology.lst.uni-saarland.de/D17-1238.pdf)
 
 Tuesday, Sep 19
-:  Representation-based Automatic Evaluation Methods
+:  Human Evaluation Methods
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
 
 Thursday, Sep 21
-: Human Evaluation Methods
+: Representation-based Automatic Evaluation Methods
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 

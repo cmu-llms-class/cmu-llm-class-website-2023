@@ -65,6 +65,8 @@ C+ or below: Clear lack of effort or incompleteness.
 Negative Results: Sometimes experiments don’t work as planned. If you try hard to get positive results but are not successful, you may still get a good grade by clearly describing why you thought your methods would work, and then performing an analysis of why your initial assumptions were incorrect, leading to results that did not match your initial expectations. The bar for paper writing, experimentation, and analysis will be a bit higher in these cases, as we want to make sure that you really made a serious effort.
 
 ### Example project ideas:
+We will gradually share example project ideas on this doc:
+https://docs.google.com/document/d/1X-omaxkP9VAFtLRu7QoZEBait2ZDc827FyqwMZC_6R4/edit?usp=sharing. 
 
-We will gradually share example project ideas on Piazza or Canvas with you. These ideas are for reference. 
+These ideas are for reference. 
 You can choose one of these example ideas (we do not guarantee any of these ideas will work out, same with all research ideas) or build something of your own.
