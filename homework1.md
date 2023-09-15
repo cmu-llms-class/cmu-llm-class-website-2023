@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-**This homework is due on Thursday, September 21 at 2 PM.**
+**This homework is due on Thursday, September 26 at 2 PM.**
 
 [Submission Tex Template](https://github.com/daphnei/cmu-llm-class/blob/main/homework_materials/hw1_template.tex)
 You are not required to follow this template for submission, but it is here for your convenience.
