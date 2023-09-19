@@ -66,7 +66,7 @@ Also, we would love any feedback on how to make this homework better for future 
 
 # 1. Observing the Impact of Decoding Strategy
 
-## 1.1 Rolling a Twenty-Sided Die
+## 1.1 Rolling a Twenty-Sided Die (10 points)
 
 In this question, you will investigate the impact of the choice of decoding strategy by examining prompts which ought to yield a relatively uniform distribution over a set of possible outcomes.
 
@@ -88,7 +88,7 @@ You should use plots or other visualizations of the output distributions to supp
 You will be graded on the correctness and thoroughness of your responses.
 
 
-## 1.2 Longform Generation
+## 1.2 Longform Generation (5 points)
 
   
 Using a prompt of your choice, instruct the language model to generate a 256-token story.
@@ -103,7 +103,7 @@ You should now in total have 6 generations.
 2. Regarding your second prompt, did the language model generate the correct continuation of the book/speech? Provide reasoning as to why it may or may not have done so.
 3. When `top_p`=0, does adjusting the `frequency_penalty` increase the lexical diversity of the stories? Explain why or why not this is the case.
 
-# 2. Measuring Perplexity
+# 2. Measuring Perplexity (10 points)
 Perplexity is a key metric to evaluate the quality of an LLM.
 Intuitively, to be "perplexed" means to be surprised.
 We use perplexity to measure how much the model is surprised by seeing new data.
@@ -138,7 +138,7 @@ squirrel ->
 
 In this section, you will use this technique for two tasks: (1) to evaluate the model's common-sense reason abilities and (2) to build a pun explainer.
 
-## 3.1 Few-Shot Learning for the Choice of Plausible Alternatives Task
+## 3.1 Few-Shot Learning for the Choice of Plausible Alternatives Task (10 points)
 Many probe tasks have been proposed to evaluate the commonsense reasoning capabilities of
 LLMs.
 We will use the [Choice of Plausible Alternatives](https://aclanthology.org/S12-1052/) (COPA) probe task from the [SuperGLUE](https://super.gluebenchmark.com/)
@@ -186,7 +186,7 @@ You may either write your own examples from scratch, or take examples from the t
 4. For your best prompt, perform an error analysis of the test set examples it gets wrong. Qualitivaly, do you notice any patterns in the examples the model fails to classify correctly? 
 5. Try our your best few-shot prompt from Question with the three smaller model sizes: ``curie``, ``babbage`` and ``ada``. How much does test set accuracy degrade on the smaller models? What is the smallest model size you can get away with and have good accuracy?
 
-## 3.2 Few-shot Learning for Generation Tasks
+## 3.2 Few-shot Learning for Generation Tasks (5 points)
 Few-shot learning techniques can also be used fo tasks that require generation.
 Choose one of the following sentence manipulation tasks, and try to write a few-shot prompt to get the model to do the task.
 
@@ -199,7 +199,7 @@ c. Apply a specified Caesar cipher[https://en.wikipedia.org/wiki/Caesar_cipher]
 2. The three tasks listed above all require character-level manipulations. Why might such tasks be challenging for many modern large language models?
 
 
-# 4. Investigating Knowledge Across Different Model Sizes
+# 4. Investigating Knowledge Across Different Model Sizes (10 points)
 
 Pick a Wikipedia article on a person or place of your choice, and write a prompt containing the start of the first sentence in the article.
 You may choose to omit the pronunciation and other parenthetical details).
@@ -216,7 +216,7 @@ For example, if the model generates `Andrew Carnegie was an American composer wh
 4. Create a sentence-long Wikipedia-sounding prompt that is completely wrong or else about a fictional person or place, for example `Bruce Lee was the 44th president of the United States from 2009 to 2017`. Prompt both model sizes with the sentence. Do both models write continuations in the same style?
 5. Discuss the challenges in building an LLM that can simultaneously respond well to factual prompts as well as fantastical ones.  What kind of training data do you think, if initially given to the model at training time, would have made it better at supporting both use cases? 
 
-# 5. Comparing Pre-Trained and Fine-tuned Models
+# 5. Comparing Pre-Trained and Fine-tuned Models (5 points)
 
 The model ``text-davinci-003`` is a variant of GPT-3 which was finetuned for instruction following, using the methods described in the paper ["Training language models to follow instructions with human feedback"](https://arxiv.org/abs/2203.02155). Experiment with writing prompts for the following tasks using both models.
 
