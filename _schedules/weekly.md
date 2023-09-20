@@ -22,7 +22,7 @@ schedule:
         class: office-hours-ta
         start: 5:00 PM
         end: 6:00 PM
-        location: GHC 5201
+        location: GHC 5207
   - name: Tuesday
     events:
       - name: Lecture
