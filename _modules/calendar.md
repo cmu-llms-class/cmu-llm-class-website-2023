@@ -104,7 +104,7 @@ Tuesday, Oct 3
 Thursday, Oct 5
 : LLM for Search Engines
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [ANCE](https://arxiv.org/pdf/2007.00808.pdf?utm_source=findwork.dev&ref=findwork.dev&utm_medium=jobposting), [SentenceT5](https://arxiv.org/abs/2108.08877)
 
 Tuesday, Oct 10
 : MIDTERM
@@ -129,7 +129,7 @@ Thursday, Oct 19
 Tuesday, Oct 24
 : Scaling Up: Scaling Laws
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Scaling Laws](https://arxiv.org/abs/2001.08361), [Chinchilla](https://arxiv.org/abs/2203.15556)
 
 Thursday, Oct 26
 : Multi-Modal Models and Real-World Interactions (Guest Lecture) **PROJECT MIDPOINT DUE**{: .label .label-blue }  
@@ -144,7 +144,7 @@ Tuesday, Oct 31
 Thursday, Nov 2
 : Scaling Up: Optimization Basics
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Adam](https://arxiv.org/abs/1412.6980), [8-bit Adam](https://arxiv.org/abs/2110.02861)
 
 Tuesday, Nov 7
 : Democracy day (no class)
@@ -154,17 +154,17 @@ Tuesday, Nov 7
 Thursday, Nov 9
 : **Industry Talk: Anthropic**; Scaling Up: Parallel Training Methods
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
 : **Industry Talk: LLaMA2**; Efficient Scaling: Training and Model Augmentation
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Metro](https://arxiv.org/pdf/2204.06644.pdf), [REALM](https://arxiv.org/abs/2002.08909)
 
 Thursday, Nov 16
 : **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**; Efficient Scaling: Architecture, MoE, Sparity, Modularity
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Stochastic MoE](https://arxiv.org/pdf/2110.04260.pdf), [FlashAttention] (https://arxiv.org/abs/2205.14135)
 
 Tuesday, Nov 21
 : Efficient Serving (Guest Lecture)
