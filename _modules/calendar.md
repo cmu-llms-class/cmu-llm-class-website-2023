@@ -82,12 +82,12 @@ Tuesday, Sep 19
 : Readings: [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
 
 Thursday, Sep 21
-: Representation-based Automatic Evaluation Methods
+: Parameter-Efficient Tuning Methods
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Prompt Tuning](https://arxiv.org/abs/2104.08691)
 
 Tuesday, Sep 26
-: Generation before LLMs; Parameter-Efficient Tuning Methods **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } **HW2 OUT**{: .label .label-red } 
+: Generation before LLMs **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } **HW2 OUT**{: .label .label-red } 
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
