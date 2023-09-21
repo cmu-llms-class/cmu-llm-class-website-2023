@@ -78,12 +78,12 @@ Thursday, Sep 14
 
 Tuesday, Sep 19
 :  Human Evaluation Methods
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W4L1_human_evaluation.pdf)
 : Readings: [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
 
 Thursday, Sep 21
 : Representation-based Automatic Evaluation Methods
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W4L2_PETM.pptx.pdf)
 : Readings: [TODO](#)
 
 Tuesday, Sep 26
