@@ -84,7 +84,7 @@ Tuesday, Sep 19
 Thursday, Sep 21
 : Parameter-Efficient Tuning Methods
   <!-- : [Slides](#) -->
-: Readings: [Prompt Tuning](https://arxiv.org/abs/2104.08691)
+: Readings: [Prompt Tuning](https://arxiv.org/abs/2104.08691), [PETM blog post](https://www.leewayhertz.com/parameter-efficient-fine-tuning/)
 
 Tuesday, Sep 26
 : Generation before LLMs **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } **HW2 OUT**{: .label .label-red } 
