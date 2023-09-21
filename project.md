@@ -9,46 +9,37 @@ description: >-
 {:.no_toc}
 
 ## Logistics:
-Team: Forming a team of 3-5 people. Four is recommended.
+Team: Form a team of 3-5 people. Four is recommended. 
+
+## Proposal Instructions
+Please use the template [linked here](https://github.com/daphnei/cmu-llm-class/raw/main/homework_materials/project_proposal_template.zip) for the project proposal. Your proposal should have all the sections shown on this template. It should be no more than 2 pages. You should also plan a 2.5 minute presenation of the idea (3 slides maximum) to present in class.
+
+If you would like feedback on your proposed idea, submit the [request for feedback form](https://forms.gle/182Trs8zddrjhv6B7) by end of day September 21st, and the TAs will be in touch.
 
 ## Checkpoints: 
-Sep 12: Project is out. Start forming teams.
-
-Sep 21: A quick check of your project ideas online with TAs, with one passage maximum to describe your idea. Finalize teams (if you need help with team making, also contact TAs).
-
-Sep 26: Two-page project proposal write up due, in ACL format. Spotlight slide deck due (3 slide maximum).
-
-Sep 28: In-class project proposals. 2.5 min spotlight style presentations.
-
-Peer scoring: each of you rates other project presentations in 1-5 likert scale (5 being you love the presentation). The scoring is based on the presentation not the project proposal content.
-Peer feedback: each of you gives short suggestions to at least three other teams.
-
-Sep 30: Projects are matched with Instructor/TA mentors.
-
-Oct 26: Midpoint report. Four pages of write up in ACL format.
-
-Oct 31: Midpoint presentation, in similar format as proposal presentation.
-
-Dec 7: Final Project Presentations. Format TBD.
-
-Dec 8: Final project due. Eight pages of write up in ACL format (besides unlimited references and appendix). Appendices are allowed but may not be considered in grading. An additional page after the appendix stating the specific contribution of each team member, with acknowledgement of all team members, is mandatory.
+- Sep 12: Project is out. Start forming teams.
+- Sep 21: Last day to request a quick check of your project ideas with TAs, with one passage maximum to describe your idea. Finalize teams (if you need help with team making, also contact TAs).
+- Sep 26: Two-page project proposal write up due, in ACL format. Spotlight slide deck due (3 slide maximum).
+- Sep 28: In-class project proposals. 2.5 min spotlight style presentations.
+  - Peer scoring: each of you rates other project presentations in 1-5 likert scale (5 being you love the presentation). The scoring is based on the presentation not the project proposal content.
+  - Peer feedback: each of you gives short suggestions to at least three other teams.
+- Sep 30: Projects are matched with Instructor/TA mentors.
+- Oct 26: Midpoint report. Four pages of write up in ACL format.
+- Oct 31: Midpoint presentation, in similar format as proposal presentation.
+- Dec 7: Final Project Presentation posteer session.
+- Dec 8: Final project due. Eight pages of write up in ACL format (besides unlimited references and appendix). Appendices are allowed but may not be considered in grading. An additional page after the appendix stating the specific contribution of each team member, with acknowledgement of all team members, is mandatory.
 
 ## Project Directions:
 The final project is expected to be a novel contribution, either to fundamental research on language models  or to downstream applications of LLM technology. For a top grade, you must demonstrate a significant amount of technical sophistication in your project. If you have an idea and you aren’t sure if it is of sufficient scope, you are welcome to come to office hours to pitch it to us ahead of the project proposal deadline.
 
 ## Grading Rubric: 
-The effort on the project of each individual team member [20%, different to each member]
-
-The completeness of the project [20%]
-
-Project proposal report [5%]
-
-Project midterm report [10%]
-
-Project final report write-up [30%]
-        
-Project spotlight, Midterm presentation and final presentation [5% each for a total of 15%]
-Bonus: the potential impact of the project idea when fully flushed out. [+10 extra %]
+- The effort on the project of each individual team member [20%, different to each member]
+- The completeness of the project [20%]
+- Project proposal report [5%]
+- Project midterm report [10%]
+- Project final report write-up [30%]
+- Project spotlight, Midterm presentation and final presentation [5% each for a total of 15%]
+- Bonus: the potential impact of the project idea when fully flushed out. [+10 extra %]
 
 ## Grades
 A+: Exceptional or surprising. Could be submitted largely as-is as a paper to an academic conference. A new application or study or improvements, etc., of LLMs that expands very significantly on existing literature and is of benefit to the broader community.
