@@ -83,7 +83,7 @@ Tuesday, Sep 19
 
 Thursday, Sep 21
 : Parameter-Efficient Tuning Methods
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W4L2_PETM.pptx.pdf)
 : Readings: [Prompt Tuning](https://arxiv.org/abs/2104.08691), [PETM blog post](https://www.leewayhertz.com/parameter-efficient-fine-tuning/)
 
 Tuesday, Sep 26
