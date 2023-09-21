@@ -9,14 +9,16 @@ description: >-
 {:.no_toc}
 
 ## Logistics:
-Team: Form a team of 3-5 people. Four is recommended.
+Team: Form a team of 3-5 people. Four is recommended. 
 
 ## Proposal Instructions
 Please use the template [linked here](https://github.com/daphnei/cmu-llm-class/raw/main/homework_materials/project_proposal_template.zip) for the project proposal. Your proposal should have all the sections shown on this template. It should be no more than 2 pages. You should also plan a 2.5 minute presenation of the idea (3 slides maximum) to present in class.
 
+If you would like feedback on your proposed idea, submit the [request for feedback form](https://forms.gle/182Trs8zddrjhv6B7) by end of day September 21st, and the TAs will be in touch.
+
 ## Checkpoints: 
 - Sep 12: Project is out. Start forming teams.
-- Sep 21: A quick check of your project ideas online with TAs, with one passage maximum to describe your idea. Finalize teams (if you need help with team making, also contact TAs).
+- Sep 21: Last day to request a quick check of your project ideas with TAs, with one passage maximum to describe your idea. Finalize teams (if you need help with team making, also contact TAs).
 - Sep 26: Two-page project proposal write up due, in ACL format. Spotlight slide deck due (3 slide maximum).
 - Sep 28: In-class project proposals. 2.5 min spotlight style presentations.
   - Peer scoring: each of you rates other project presentations in 1-5 likert scale (5 being you love the presentation). The scoring is based on the presentation not the project proposal content.
