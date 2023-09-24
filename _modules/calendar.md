@@ -87,9 +87,9 @@ Thursday, Sep 21
 : Readings: [Prompt Tuning](https://arxiv.org/abs/2104.08691), [PETM blog post](https://www.leewayhertz.com/parameter-efficient-fine-tuning/)
 
 Tuesday, Sep 26
-: Generation before LLMs **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } **HW2 OUT**{: .label .label-red } 
+: Generation before LLMs, Discuss HW1 s **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } **HW2 OUT**{: .label .label-red } 
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Building NLG Systems, chapter 3](https://www-cambridge-org.cmu.idm.oclc.org/core/services/aop-cambridge-core/content/view/048E2C49A80D37B3B8BA69DD5FA823F9/9780511519857c3_p41-78_CBO.pdf/architecture_of_a_natural_language_generation_system.pdf)
 
 Thursday, Sep 28
 : In-class Project Proposals 
