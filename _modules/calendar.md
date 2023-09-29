@@ -88,12 +88,12 @@ Thursday, Sep 21
 
 Tuesday, Sep 26
 : Generation before LLMs, Discuss HW1 s **HW1 DUE**{: .label .label-purple } **PROJECT PROPOSALS DUE**{: .label .label-blue } 
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W5L1_homework_recap_pre_llms.pptx.pdf)
 : Readings: [Building NLG Systems, chapter 3](https://www-cambridge-org.cmu.idm.oclc.org/core/services/aop-cambridge-core/content/view/048E2C49A80D37B3B8BA69DD5FA823F9/9780511519857c3_p41-78_CBO.pdf/architecture_of_a_natural_language_generation_system.pdf)
 
 Thursday, Sep 28
-: In-class Project Proposals  **HW2 OUT**{: .label .label-red } 
-  <!-- : [Slides](#) -->
+: In-class Project Proposals  **HW2 OUT**{: .label .label-red }
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W5L2_student_project_proposals.pdf)
 : Readings: [TODO](#)
 
 Tuesday, Oct 3
