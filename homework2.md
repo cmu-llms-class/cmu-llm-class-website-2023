@@ -20,8 +20,9 @@ This homework is due on Tuesday, October 24th at 2 PM.
 
 # Starter Code and Assignment File
 
-The starter code for this homework is available [here](homework_materials/hw2_starter_code.zip).
-The assignment file is available [here](homework_materials/hw2.pdf).
+The starter code for this homework is available [here](homework_materials/hw2_starter_code.zip).  
+The assignment file is available [here](homework_materials/hw2.pdf).  
+The latex template for this assignment is available [here](homework_materials/hw2_latex_template.zip).
 
 # Preparation: Setting up AWS
 
