@@ -14,7 +14,7 @@ Each group has been assigned to a project TA. Please check Piazza for the TA ass
 You can meet with your TA as much or as little as you want, but there are two **mandatory** meetings with your TA to make sure that your group is on track:
 
 - Week of Oct 2: TA matching announced. Your TA will reach out to you in order to schedule an introductory meeting before Fri Oct 13.
-- Oct 31: Midterm reports are due. During class, TAs and instructors will talk to each group one-on-one to discuss the project. Please note that there will be no formal in-class presentation.
+- Oct 31: Midterm project meetings. During class, TAs and instructors will talk to each group one-on-one to discuss the project. Please note that there will be no formal in-class presentation.
 
 ## Logistics:
 Team: Form a team of 3-5 people. Four is recommended. 
