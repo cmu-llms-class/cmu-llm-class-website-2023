@@ -8,6 +8,14 @@ description: >-
 # 11-667 Projects
 {:.no_toc}
 
+## Team Assignments 
+Each group has been assigned to a project TA. Please check Piazza for the TA assignments. The role of your TA is to guide and advise your projects, so please reach out to your assigned project TA first if you have questions about your approach, or if you have any issues with the project in general.
+
+You can meet with your TA as much or as little as you want, but there are two **mandatory** meetings with your TA to make sure that your group is on track:
+
+- Week of Oct 2: TA matching announced. Your TA will reach out to you in order to schedule an introductory meeting before Fri Oct 13.
+- Oct 31: Midterm reports are due. During class, TAs and instructors will talk to each group one-on-one to discuss the project. Please note that there will be no formal in-class presentation.
+
 ## Logistics:
 Team: Form a team of 3-5 people. Four is recommended. 
 
@@ -25,7 +33,7 @@ If you would like feedback on your proposed idea, submit the [request for feedba
   - Peer feedback: each of you gives short suggestions to at least three other teams.
 - Sep 30: Projects are matched with Instructor/TA mentors.
 - Oct 26: Midpoint report. Four pages of write up in ACL format.
-- Oct 31: Midpoint presentation, in similar format as proposal presentation.
+- Oct 31: Midpoint project meetings. Meet with your TA to discuss your project in class.
 - Dec 7: Final Project Presentation posteer session.
 - Dec 8: Final project due. Eight pages of write up in ACL format (besides unlimited references and appendix). Appendices are allowed but may not be considered in grading. An additional page after the appendix stating the specific contribution of each team member, with acknowledgement of all team members, is mandatory.
 
