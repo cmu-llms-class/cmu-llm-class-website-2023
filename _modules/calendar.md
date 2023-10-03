@@ -109,12 +109,12 @@ Thursday, Oct 5
 Tuesday, Oct 10
 : MIDTERM
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+
 
 Thursday, Oct 12
 : LLMs Beyond Text: Music (Guest Lecture) 
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [AudioLM](https://arxiv.org/pdf/2209.03143.pdf), [Oore+ 18](https://arxiv.org/pdf/1808.03715.pdf)
 
 Tuesday, Oct 17
 : Fall break (no class)
