@@ -109,7 +109,7 @@ Thursday, Oct 5
 Tuesday, Oct 10
 : MIDTERM
   <!-- : [Slides](#) -->
-: Readings None
+: Readings: None
 
 Thursday, Oct 12
 : LLMs Beyond Text: Music (Guest Lecture) 
