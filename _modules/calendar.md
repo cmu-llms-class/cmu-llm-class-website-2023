@@ -109,7 +109,7 @@ Thursday, Oct 5
 Tuesday, Oct 10
 : MIDTERM
   <!-- : [Slides](#) -->
-
+: Readings None
 
 Thursday, Oct 12
 : LLMs Beyond Text: Music (Guest Lecture) 
@@ -119,12 +119,12 @@ Thursday, Oct 12
 Tuesday, Oct 17
 : Fall break (no class)
   <!-- : [Slides](#) -->
-
+: Readings: Enjoy Fall Break 
 
 Thursday, Oct 19
 : Fall break (no class)
   <!-- : [Slides](#) -->
-
+: Readings: Enjoy Fall Break 
 
 Tuesday, Oct 24
 : Scaling Up: Scaling Laws **HW2 DUE**{: .label .label-red } 
@@ -149,7 +149,7 @@ Thursday, Nov 2
 Tuesday, Nov 7
 : Democracy day (no class)
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: None
 
 Thursday, Nov 9
 : **Industry Talk: Anthropic**; Scaling Up: Parallel Training Methods
