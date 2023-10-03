@@ -119,12 +119,12 @@ Thursday, Oct 12
 Tuesday, Oct 17
 : Fall break (no class)
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+
 
 Thursday, Oct 19
 : Fall break (no class)
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+
 
 Tuesday, Oct 24
 : Scaling Up: Scaling Laws **HW2 DUE**{: .label .label-red } 
