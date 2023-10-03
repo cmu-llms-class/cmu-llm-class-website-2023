@@ -164,7 +164,7 @@ Tuesday, Nov 14
 Thursday, Nov 16
 : **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**; Efficient Scaling: Architecture, MoE, Sparity, Modularity
   <!-- : [Slides](#) -->
-: Readings: [Stochastic MoE](https://arxiv.org/pdf/2110.04260.pdf), [FlashAttention] (https://arxiv.org/abs/2205.14135)
+: Readings: [Stochastic MoE](https://arxiv.org/pdf/2110.04260.pdf), [FlashAttention](https://arxiv.org/abs/2205.14135)
 
 Tuesday, Nov 21
 : Efficient Serving (Guest Lecture)
