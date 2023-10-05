@@ -98,12 +98,12 @@ Thursday, Sep 28
 
 Tuesday, Oct 3
 : **Industry Talk: Together.ai**; Chatbots and AI Agents
-  <!-- : [Slides](#) -->
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L1_AI_agents.pdf)
 : Readings: [Diplomacy agents](https://www-science-org.cmu.idm.oclc.org/doi/pdf/10.1126/science.ade9097), [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442v1)
 
 Thursday, Oct 5
 : LLM for Search Engines
-  <!-- : [Slides](#) -->
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pptx.pdf)
 : Readings: [ANCE](https://arxiv.org/pdf/2007.00808.pdf?utm_source=findwork.dev&ref=findwork.dev&utm_medium=jobposting), [SentenceT5](https://arxiv.org/abs/2108.08877)
 
 Tuesday, Oct 10
