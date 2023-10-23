@@ -34,7 +34,7 @@ The TAs have compiled step-by-step setup instructions with screenshots here: [AW
 
 # Submission
 
-For homework 2, we will be using **Gradescope**: [https://www.gradescope.com/courses/638504](https://www.gradescope.com/courses/638504)  
+For homework 2, we will be using **Gradescope**. Please use the link from the Canvas coursepage.  
 Two assignments have been created on Gradescope: `Homework 2 - PDF` and `Homework 2 - Code and Checkpoints`.  
 
 `Homework 2 - PDF` will be manually graded by the instructors.  
@@ -51,3 +51,7 @@ Please submit the following files, with these **exact filenames**:
 - `utils.py`
 - `model.pt` (weights from your trained model in Question 2.6.)
 - `config.yaml` (configuration file for your trained model in Question 2.6.)
+
+Note: Since many students are having trouble with submitting their model checkpoints on Gradescope with the 100MB size limit, there is a Canvas assignment for this: `Homework 2 - Model Checkpoint`.  
+If your model checkpoint exceeds 100MB, please submit your `model.pt` and `config.yaml` file on Canvas.  
+If your model checkpoint is below 100MB, you can still submit `model.pt` and `config.yaml` on Gradescope.  
