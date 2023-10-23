@@ -127,14 +127,14 @@ Thursday, Oct 19
 : Readings: Enjoy Fall Break 
 
 Tuesday, Oct 24
-: Scaling Up: Scaling Laws **HW2 DUE**{: .label .label-red } 
-  <!-- : [Slides](#) -->
+: Anonymous Feedback for the Class. LLM for Search Engines Continued **HW2 DUE**{: .label .label-red } 
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pdf)
 : Readings: [Scaling Laws](https://arxiv.org/abs/2001.08361), [Chinchilla](https://arxiv.org/abs/2203.15556)
 
 Thursday, Oct 26
-: Multi-Modal Models and Real-World Interactions (Guest Lecture) **PROJECT MIDPOINT DUE**{: .label .label-blue }  
+: Paradigmns of Visual Representation Learning (Guest Lecture from [Xinlei Chen](https://xinleic.xyz/)) **PROJECT MIDPOINT DUE**{: .label .label-blue }  
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [SimCLR](https://arxiv.org/abs/2002.05709), [MAE](https://arxiv.org/abs/2111.06377)
 
 Tuesday, Oct 31
 : Midpoint Project Presentations
@@ -142,7 +142,7 @@ Tuesday, Oct 31
 : Readings: [TODO](#)
 
 Thursday, Nov 2
-: Scaling Up: Optimization Basics
+: Scaling Up
   <!-- : [Slides](#) -->
 : Readings: [Adam](https://arxiv.org/abs/1412.6980), [8-bit Adam](https://arxiv.org/abs/2110.02861)
 
@@ -152,7 +152,7 @@ Tuesday, Nov 7
 : Readings: None
 
 Thursday, Nov 9
-: **Industry Talk: Anthropic**; Scaling Up: Parallel Training Methods
+: **Industry Talk: Anthropic**; Scaling Up
   <!-- : [Slides](#) -->
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
