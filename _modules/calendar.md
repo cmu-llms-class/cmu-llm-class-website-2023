@@ -103,7 +103,7 @@ Tuesday, Oct 3
 
 Thursday, Oct 5
 : LLM for Search Engines
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pdf)
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pptx.pdf)
 : Readings: [ANCE](https://arxiv.org/pdf/2007.00808.pdf?utm_source=findwork.dev&ref=findwork.dev&utm_medium=jobposting), [SentenceT5](https://arxiv.org/abs/2108.08877)
 
 Tuesday, Oct 10
