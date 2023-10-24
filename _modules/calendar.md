@@ -132,12 +132,12 @@ Tuesday, Oct 24
 : Readings: [Scaling Laws](https://arxiv.org/abs/2001.08361), [Chinchilla](https://arxiv.org/abs/2203.15556)
 
 Thursday, Oct 26
-: Paradigmns of Visual Representation Learning (Guest Lecture from [Xinlei Chen](https://xinleic.xyz/)) **PROJECT MIDPOINT DUE**{: .label .label-blue }  
+: Paradigmns of Visual Representation Learning (Guest Lecture from [Xinlei Chen](https://xinleic.xyz/)) 
   <!-- : [Slides](#) -->
 : Readings: [SimCLR](https://arxiv.org/abs/2002.05709), [MAE](https://arxiv.org/abs/2111.06377)
 
 Tuesday, Oct 31
-: Midpoint Project Presentations
+: Midpoint Project Presentations **PROJECT MIDPOINT DUE**{: .label .label-blue }  
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
