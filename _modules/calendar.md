@@ -128,7 +128,7 @@ Thursday, Oct 19
 
 Tuesday, Oct 24
 : Anonymous Feedback for the Class. LLM for Search Engines Continued **HW2 DUE**{: .label .label-red } 
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pdf)
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W8L1%20LLM%20for%20Search%202.pdf)
 : Readings: [Scaling Laws](https://arxiv.org/abs/2001.08361), [Chinchilla](https://arxiv.org/abs/2203.15556)
 
 Thursday, Oct 26
