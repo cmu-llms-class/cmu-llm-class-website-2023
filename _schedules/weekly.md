@@ -1,11 +1,5 @@
 ---
 timeline:
-  - '10:00 AM'
-  - '10:30 AM'
-  - '11:00 AM'
-  - '11:30 AM'
-  - '12:00 PM'
-  - '12:30 PM'
   - '1:00 PM'
   - '1:30 PM'
   - '2:00 PM'
@@ -55,11 +49,4 @@ schedule:
         start: 3:30 PM
         end: 4:30 PM
         location: GHC 6409
-  - name: Friday
-    events:
-      - name: Office Hours (TAs)
-        class: office-hours-instructor
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Zoom (see Piazza)
 ---

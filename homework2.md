@@ -52,6 +52,8 @@ Please submit the following files, with these **exact filenames**:
 - `model.pt` (weights from your trained model in Question 2.6.)
 - `config.yaml` (configuration file for your trained model in Question 2.6.)
 
+Please use [this script](https://gist.github.com/Y0mingZhang/e65783e6c92d448ac94062a7f8951a50) to check that your submission format is correct. 
+
 Note: Since many students are having trouble with submitting their model checkpoints on Gradescope with the 100MB size limit, there is a Canvas assignment for this: `Homework 2 - Model Checkpoint`.  
 If your model checkpoint exceeds 100MB, please submit your `model.pt` and `config.yaml` file on Canvas.  
 If your model checkpoint is below 100MB, you can still submit `model.pt` and `config.yaml` on Gradescope.  
