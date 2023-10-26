@@ -32,9 +32,9 @@ If you would like feedback on your proposed idea, submit the [request for feedba
   - Peer scoring: each of you rates other project presentations in 1-5 likert scale (5 being you love the presentation). The scoring is based on the presentation not the project proposal content.
   - Peer feedback: each of you gives short suggestions to at least three other teams.
 - Sep 30: Projects are matched with Instructor/TA mentors.
-- Oct 26: Midpoint report. Four pages of write up in ACL format.
+- Oct 31: Midpoint report. Four pages of write up in ACL format.
 - Oct 31: Midpoint project meetings. Meet with your TA to discuss your project in class.
-- Dec 7: Final Project Presentation posteer session.
+- Dec 7: Final Project Presentation poster session.
 - Dec 8: Final project due. Eight pages of write up in ACL format (besides unlimited references and appendix). Appendices are allowed but may not be considered in grading. An additional page after the appendix stating the specific contribution of each team member, with acknowledgement of all team members, is mandatory.
 
 ## Project Directions:
