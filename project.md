@@ -19,6 +19,15 @@ You can meet with your TA as much or as little as you want, but there are two **
 ## Logistics:
 Team: Form a team of 3-5 people. Four is recommended. 
 
+## Midpoint Instructions
+Your report should be in the style of an ACL submission. You may (but are not required to use the template [linked here](https://github.com/daphnei/cmu-llm-class/raw/main/homework_materials/project_midpoint_template.zip). Where relevant, you may copy text from your proposal. We will evalute youe midpoint report on:
+
+1. Have you made progress toward the stated goals in your proposal? You should have run at least one set of experiments by now.
+2. Do you have a plan for in place for completing your project by the end of the semester?
+3. Is your midpoint report well-written in the style of an ACL paper?
+
+You should also prepare slides for a 3-minute in-class presentation. While your report is due on October 31 at 2 PM, we need your slides by October 30 at 8 PM so we have time to assemble them into a single slide deck.
+
 ## Proposal Instructions
 Please use the template [linked here](https://github.com/daphnei/cmu-llm-class/raw/main/homework_materials/project_proposal_template.zip) for the project proposal. Your proposal should have all the sections shown on this template. It should be no more than 2 pages. You should also plan a 2.5 minute presenation of the idea (3 slides maximum) to present in class.
 
@@ -32,8 +41,11 @@ If you would like feedback on your proposed idea, submit the [request for feedba
   - Peer scoring: each of you rates other project presentations in 1-5 likert scale (5 being you love the presentation). The scoring is based on the presentation not the project proposal content.
   - Peer feedback: each of you gives short suggestions to at least three other teams.
 - Sep 30: Projects are matched with Instructor/TA mentors.
-- Oct 31: Midpoint report. Four pages of write up in ACL format.
-- Oct 31: Midpoint project meetings. Meet with your TA to discuss your project in class.
+- Oct 30: Submit your slides by 8 PM on this date. **No late slide submissions allowed.**
+- Oct 31: Midpoint progress report due.
+  - Four pages of write up in ACL format.
+  - Three minute presentation in class highlighting your progress.
+- Oct 30-Nov 4: Schedule a midpoint check-in meeting with your assigned team mentor.
 - Dec 7: Final Project Presentation poster session.
 - Dec 8: Final project due. Eight pages of write up in ACL format (besides unlimited references and appendix). Appendices are allowed but may not be considered in grading. An additional page after the appendix stating the specific contribution of each team member, with acknowledgement of all team members, is mandatory.
 
