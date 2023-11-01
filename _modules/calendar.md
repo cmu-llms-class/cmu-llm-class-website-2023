@@ -138,8 +138,7 @@ Thursday, Oct 26
 
 Tuesday, Oct 31
 : Midpoint Project Presentations **PROJECT MIDPOINT DUE**{: .label .label-blue }  
-  <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+ : [Project Midpoint Slides](https://www.andrew.cmu.edu/course/11-667/lectures/midpoint_presenation_slides.pdf)
 
 Thursday, Nov 2
 : Scaling Up
