@@ -142,7 +142,7 @@ Tuesday, Oct 31
 
 Thursday, Nov 2
 : Scaling Up
-  <!-- : [Slides](#) -->
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W9L2%20Scaling%20Up%20Scaling%20Laws.pdf)
 : Readings: [Adam](https://arxiv.org/abs/1412.6980), [8-bit Adam](https://arxiv.org/abs/2110.02861)
 
 Tuesday, Nov 7
