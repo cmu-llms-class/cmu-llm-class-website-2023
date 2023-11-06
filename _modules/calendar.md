@@ -156,12 +156,12 @@ Thursday, Nov 9
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
-: **Industry Talk: LLaMA2**; Efficient Scaling: Training and Model Augmentation
+: **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Efficient Scaling: Training and Model Augmentation
   <!-- : [Slides](#) -->
 : Readings: [Metro](https://arxiv.org/pdf/2204.06644.pdf), [REALM](https://arxiv.org/abs/2002.08909)
 
 Thursday, Nov 16
-: **HW3 OUT**{: .label .label-yellow } **Industry Talk: Cohere**; Efficient Scaling: Architecture, MoE, Sparity, Modularity
+:  **Industry Talk: Cohere**; Efficient Scaling: Architecture, MoE, Sparity, Modularity
   <!-- : [Slides](#) -->
 : Readings: [Stochastic MoE](https://arxiv.org/pdf/2110.04260.pdf), [FlashAttention](https://arxiv.org/abs/2205.14135)
 
