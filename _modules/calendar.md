@@ -133,7 +133,7 @@ Tuesday, Oct 24
 
 Thursday, Oct 26
 : Paradigmns of Visual Representation Learning (Guest Lecture from [Xinlei Chen](https://xinleic.xyz/)) 
-  <!-- : [Slides](#) -->
+ :[Slides](https://www.andrew.cmu.edu/course/11-667/lectures/xinlei.pdf)
 : Readings: [SimCLR](https://arxiv.org/abs/2002.05709), [MAE](https://arxiv.org/abs/2111.06377)
 
 Tuesday, Oct 31
