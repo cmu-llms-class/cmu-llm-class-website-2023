@@ -19,6 +19,26 @@ You can meet with your TA as much or as little as you want, but there are two **
 ## Logistics:
 Team: Form a team of 3-5 people. Four is recommended. 
 
+## Final Deliverables Instructions
+You have three deliverables in the final weeks of class.
+
+* **Due December 7, 3-4:30 PM**: In class poster session.
+  * The library has some [good resources](https://www.cmu.edu/student-success/other-resources/resource-descriptions/science-research-posters.html) on designing an effective poster.
+  * **VERY IMPORTANT**: You can print your poster for free following [this link](https://computing.cs.cmu.edu/desktop/printing-posters), but you should expect posters to take 2-3 days to print, so make sure to submit your poster early enough that it is ready! We will not accept excuses for posters not ready in time.
+  * During the poster session, the instructors and TAs will visit your poster and ask you to go through it. They will also ask questions about your work.
+* **Due December 8, at 8 PM**: Deadline for submitting final report.
+  * You should write your project report following the conventions of a 4-page ACL paper. Experimental details which do not fit within 4 pages may be included in an Appendix.
+  * Grading: Your report will be graded by TAs instructors OTHER than your assigned mentor. They will grade following the [ARR reviewer rubric](https://aclrollingreview.org/reviewform). Like an ACL paper, your report should be self-contained and comprehensible to someone unfamiliar with your project.
+* **Final peer feedback**
+  * **Due December 11 at 8 PM**: At the poster session, choose two posters to fill out the [following form]() over.
+
+If you have been given permission to not attend the final poster sessions (for example, if you will be presenting at EMNLP), please schedule a meeting with Daphne and Chenyan sometime December 4-14 to present your poster to us. This will be an individual meeting. Your team will still be expected to show up to the in-person poster session on December 7.
+
+### A note on negative results
+
+Sometimes research doesn’t work out. It is fine to have negative results in your report so long as you discuss *why* your hypothesis ended up being false, using experiments to back your explanation.
+
+
 ## Midpoint Instructions
 Your report should be in the style of an ACL submission. You may (but are not required to use the template [linked here](https://github.com/daphnei/cmu-llm-class/raw/main/homework_materials/project_midpoint_template.zip). Where relevant, you may copy text from your proposal. We will evalute youe midpoint report on:
 
