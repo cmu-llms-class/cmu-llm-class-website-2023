@@ -152,7 +152,7 @@ Tuesday, Nov 7
 
 Thursday, Nov 9
 : **Industry Talk: Anthropic**; Scaling Up
-  <!-- : [Slides](#) -->
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Parallel%20Training.pdf)
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
