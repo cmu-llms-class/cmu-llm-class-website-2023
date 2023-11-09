@@ -141,7 +141,7 @@ Tuesday, Oct 31
  : [Project Midpoint Slides](https://www.andrew.cmu.edu/course/11-667/lectures/midpoint_presenation_slides.pdf)
 
 Thursday, Nov 2
-: Scaling Up
+: Scaling Up: Scaling Laws
  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W9L2%20Scaling%20Up%20Scaling%20Laws.pdf)
 : Readings: [Adam](https://arxiv.org/abs/1412.6980), [8-bit Adam](https://arxiv.org/abs/2110.02861)
 
@@ -151,17 +151,17 @@ Tuesday, Nov 7
 : Readings: None
 
 Thursday, Nov 9
-: **Industry Talk: Anthropic**; Scaling Up
+: **Industry Talk: Anthropic**; Scaling Up: Parallel Optimization
  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Parallel%20Training.pdf)
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
-: **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Efficient Scaling: Training and Model Augmentation
+: **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Efficient Scaling: Retrieval Augmentation
   <!-- : [Slides](#) -->
 : Readings: [Metro](https://arxiv.org/pdf/2204.06644.pdf), [REALM](https://arxiv.org/abs/2002.08909)
 
 Thursday, Nov 16
-:  **Industry Talk: Cohere**; Efficient Scaling: Architecture, MoE, Sparity, Modularity
+:   Efficient Scaling: Other Approaches
   <!-- : [Slides](#) -->
 : Readings: [Stochastic MoE](https://arxiv.org/pdf/2110.04260.pdf), [FlashAttention](https://arxiv.org/abs/2205.14135)
 
@@ -181,7 +181,7 @@ Tuesday, Nov 28
 : Readings: [TODO](#)
 
 Thursday, Nov 30
-: **HW3 DUE**{: .label .label-yellow } Privacy, Security, and Legal Considerations
+: **HW3 DUE**{: .label .label-yellow }; **Industry Talk: Cohere**; Privacy, Security, and Legal Considerations
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
