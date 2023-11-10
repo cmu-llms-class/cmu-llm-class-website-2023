@@ -151,32 +151,32 @@ Tuesday, Nov 7
 : Readings: None
 
 Thursday, Nov 9
-: **Industry Talk: Anthropic**; Scaling Up: Parallel Optimization
+: **Industry Talk: Anthropic**; Scaling Up: Optimizer Basis
  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Parallel%20Training.pdf)
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
-: **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Efficient Scaling: Retrieval Augmentation
-  <!-- : [Slides](#) -->
-: Readings: [Metro](https://arxiv.org/pdf/2204.06644.pdf), [REALM](https://arxiv.org/abs/2002.08909)
+: **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Scaling Up: Parallel Optimization
+  <!-- : [Slides](#) --> [ZeRO Offload](https://arxiv.org/pdf/2101.06840.pdf), [LLaMA2](https://arxiv.org/abs/2307.09288)
+: Readings: 
 
 Thursday, Nov 16
-:   Efficient Scaling: Other Approaches
+:  Efficient Scaling: Retrieval Augmentation
   <!-- : [Slides](#) -->
-: Readings: [Stochastic MoE](https://arxiv.org/pdf/2110.04260.pdf), [FlashAttention](https://arxiv.org/abs/2205.14135)
+: Readings: [RAG](https://arxiv.org/abs/2005.11401), [REALM](https://arxiv.org/abs/2002.08909)
 
 Tuesday, Nov 21
-: Efficient Serving (Guest Lecture)
+: Efficient Serving (Guest Lecture from [Beidi Chen](https://www.andrew.cmu.edu/user/beidic/))
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
 Thursday, Nov 23
 : Happy Thanksgiving (no class)
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [Enjoy break](#)
 
 Tuesday, Nov 28
-: LLMs for Code and Tool Use (Guest Lecture)
+: LLMs for Code and Tool Use (Guest Lecture from [Daniel Fried](https://dpfried.github.io/))
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
@@ -186,7 +186,7 @@ Thursday, Nov 30
 : Readings: [TODO](#)
 
 Tuesday, Dec 5
-: Ethical Considerations and Model Bias (Guest Lecture)
+: Ethical Considerations and Model Bias (Guest Lecture from [Maarten Sap](https://maartensap.com/))
   <!-- : [Slides](#) -->
 : Readings: [TODO](#)
 
