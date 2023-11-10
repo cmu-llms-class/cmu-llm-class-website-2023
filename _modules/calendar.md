@@ -157,8 +157,8 @@ Thursday, Nov 9
 
 Tuesday, Nov 14
 : **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Scaling Up: Parallel Optimization
-  <!-- : [Slides](#) --> [ZeRO Offload](https://arxiv.org/pdf/2101.06840.pdf), [LLaMA2](https://arxiv.org/abs/2307.09288)
-: Readings: 
+  <!-- : [Slides](#) -->
+: Readings: [ZeRO Offload](https://arxiv.org/pdf/2101.06840.pdf), [LLaMA2](https://arxiv.org/abs/2307.09288)
 
 Thursday, Nov 16
 :  Efficient Scaling: Retrieval Augmentation
