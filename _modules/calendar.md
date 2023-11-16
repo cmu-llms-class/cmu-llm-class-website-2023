@@ -152,17 +152,17 @@ Tuesday, Nov 7
 
 Thursday, Nov 9
 : **Industry Talk: Anthropic**; Scaling Up: Optimizer Basis
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Parallel%20Training.pdf)
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Optimizer%20Basis.pdf)
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
 : **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Scaling Up: Parallel Optimization
-  <!-- : [Slides](#) -->
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W11L1%20Scaling%20Up%20Parallel%20Training.pdf)
 : Readings: [ZeRO Offload](https://arxiv.org/pdf/2101.06840.pdf), [LLaMA2](https://arxiv.org/abs/2307.09288)
 
 Thursday, Nov 16
 :  Efficient Scaling: Retrieval Augmentation
-  <!-- : [Slides](#) -->
+ : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W11L2%20Efficient%20Scaling%20Retrieval%20Augmentation.pdf)
 : Readings: [RAG](https://arxiv.org/abs/2005.11401), [REALM](https://arxiv.org/abs/2002.08909)
 
 Tuesday, Nov 21
