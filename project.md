@@ -27,7 +27,7 @@ You have three deliverables in the final weeks of class.
   * **VERY IMPORTANT**: You can print your poster for free following [this link](https://computing.cs.cmu.edu/desktop/printing-posters), but you should expect posters to take 2-3 days to print, so make sure to submit your poster early enough that it is ready! We will not accept excuses for posters not ready in time.
   * During the poster session, the instructors and TAs will visit your poster and ask you to go through it. They will also ask questions about your work.
 * **Due December 8, at 8 PM**: Deadline for submitting final report.
-  * You should write your project report following the conventions of a 4-page ACL paper. Experimental details which do not fit within 4 pages may be included in an Appendix.
+  * You should write your project report following the conventions of an 8-page ACL paper. Experimental details which do not fit within 8 pages may be included in an Appendix.
   * Grading: Your report will be graded by TAs instructors OTHER than your assigned mentor. They will grade following the [ARR reviewer rubric](https://aclrollingreview.org/reviewform). Like an ACL paper, your report should be self-contained and comprehensible to someone unfamiliar with your project.
 * **Final peer feedback**
   * **Due December 11 at 8 PM**: At the poster session, choose two posters to fill out the [following form]() over.
