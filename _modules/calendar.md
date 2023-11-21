@@ -77,7 +77,7 @@ Thursday, Sep 14
 : Readings: [GEM Benchmark](https://arxiv.org/pdf/2102.01672.pdf), [Evaluation Challenges](http://aclanthology.lst.uni-saarland.de/D17-1238.pdf)
 
 Tuesday, Sep 19
-:  Human Evaluation Methods
+: Human Evaluation Methods
   : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W4L1_human_evaluation.pdf)
 : Readings: [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
 
@@ -94,84 +94,86 @@ Tuesday, Sep 26
 Thursday, Sep 28
 : In-class Project Proposals  **HW2 OUT**{: .label .label-red }
   : [Proposals](https://www.andrew.cmu.edu/course/11-667/lectures/W5L2_student_project_proposals.pdf)
-: Readings: [TODO](#)
 
 Tuesday, Oct 3
-: **Industry Talk: Together.ai**; Chatbots and AI Agents
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L1_AI_agents.pdf)
+: Industry Talk: Together.ai; Chatbots and AI Agents
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L1_AI_agents.pdf)
 : Readings: [Diplomacy agents](https://www-science-org.cmu.idm.oclc.org/doi/pdf/10.1126/science.ade9097), [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442v1)
 
 Thursday, Oct 5
 : LLM for Search Engines
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pptx.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W6L2%20LLM%20for%20Search.pptx.pdf)
 : Readings: [ANCE](https://arxiv.org/pdf/2007.00808.pdf?utm_source=findwork.dev&ref=findwork.dev&utm_medium=jobposting), [SentenceT5](https://arxiv.org/abs/2108.08877)
 
 Tuesday, Oct 10
 : MIDTERM
-  <!-- : [Slides](#) -->
+  : 
 : Readings: None
 
 Thursday, Oct 12
-: LLMs Beyond Text: Music (Guest Lecture) 
-  <!-- : [Slides](#) -->
+: LLMs for Music Generation (Guest Lecture from Chris Donahue) 
+  : 
 : Readings: [AudioLM](https://arxiv.org/pdf/2209.03143.pdf), [Oore+ 18](https://arxiv.org/pdf/1808.03715.pdf)
 
 Tuesday, Oct 17
 : Fall break (no class)
-  <!-- : [Slides](#) -->
+  : 
 : Readings: Enjoy Fall Break 
 
 Thursday, Oct 19
 : Fall break (no class)
-  <!-- : [Slides](#) -->
+  : 
 : Readings: Enjoy Fall Break 
 
 Tuesday, Oct 24
 : Anonymous Feedback for the Class. LLM for Search Engines Continued **HW2 DUE**{: .label .label-red } 
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W8L1%20LLM%20for%20Search%202.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W8L1%20LLM%20for%20Search%202.pdf)
 : Readings: [Scaling Laws](https://arxiv.org/abs/2001.08361), [Chinchilla](https://arxiv.org/abs/2203.15556)
 
 Thursday, Oct 26
 : Paradigmns of Visual Representation Learning (Guest Lecture from [Xinlei Chen](https://xinleic.xyz/)) 
- :[Slides](https://www.andrew.cmu.edu/course/11-667/lectures/xinlei.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/xinlei.pdf)
 : Readings: [SimCLR](https://arxiv.org/abs/2002.05709), [MAE](https://arxiv.org/abs/2111.06377)
 
 Tuesday, Oct 31
 : Midpoint Project Presentations **PROJECT MIDPOINT DUE**{: .label .label-blue }  
- : [Project Midpoint Slides](https://www.andrew.cmu.edu/course/11-667/lectures/midpoint_presenation_slides.pdf)
+  : [Project Midpoint Slides](https://www.andrew.cmu.edu/course/11-667/lectures/midpoint_presenation_slides.pdf)
 
 Thursday, Nov 2
 : Scaling Up: Scaling Laws
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W9L2%20Scaling%20Up%20Scaling%20Laws.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W9L2%20Scaling%20Up%20Scaling%20Laws.pdf)
 : Readings: [Adam](https://arxiv.org/abs/1412.6980), [8-bit Adam](https://arxiv.org/abs/2110.02861)
 
 Tuesday, Nov 7
 : Democracy day (no class)
+  : 
   <!-- : [Slides](#) -->
 : Readings: None
 
 Thursday, Nov 9
 : **Industry Talk: Anthropic**; Scaling Up: Optimizer Basis
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Optimizer%20Basis.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W10L2%20Scaling%20Up%20Optimizer%20Basis.pdf)
 : Readings: [GPipe](https://arxiv.org/abs/1811.06965), [ZeRO](https://arxiv.org/abs/1910.02054)
 
 Tuesday, Nov 14
 : **HW3 OUT**{: .label .label-yellow } **Industry Talk: LLaMA2**; Scaling Up: Parallel Optimization
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W11L1%20Scaling%20Up%20Parallel%20Training.pdf)
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W11L1%20Scaling%20Up%20Parallel%20Training.pdf)
 : Readings: [ZeRO Offload](https://arxiv.org/pdf/2101.06840.pdf), [LLaMA2](https://arxiv.org/abs/2307.09288)
 
 Thursday, Nov 16
-:  Efficient Scaling: Retrieval Augmentation
- : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W11L2%20Efficient%20Scaling%20Retrieval%20Augmentation.pdf)
+: Retrieval Augmentation
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/W11L2%20Efficient%20Scaling%20Retrieval%20Augmentation.pdf)
 : Readings: [RAG](https://arxiv.org/abs/2005.11401), [REALM](https://arxiv.org/abs/2002.08909)
 
 Tuesday, Nov 21
 : Efficient Serving (Guest Lecture from [Beidi Chen](https://www.andrew.cmu.edu/user/beidic/))
+  : 
   <!-- : [Slides](#) -->
 : Readings: [H2O](https://arxiv.org/abs/2306.14048), [StreamLB](https://arxiv.org/abs/2309.17453)
 
 Thursday, Nov 23
 : Happy Thanksgiving (no class)
+  : 
   <!-- : [Slides](#) -->
 : Readings: [Enjoy break](#)
 
