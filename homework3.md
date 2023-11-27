@@ -18,6 +18,15 @@ description: >-
 
 This homework is due on Thursday Nov 30 2023 at 2pm.
 
+# November 27 Update
+
+The starter code, assignment file and latex template have been updated.
+Here is a summary of the main changes:
+   - Added `generate.py` to the starter code. **You will need to complete this file for Question 5.0 in the assignment.**
+   - **The expected submission format has changed** (see assigment file for details).
+   - Updated latex template to match the latest assignment file.
+
+
 # Starter Code and Assignment File
 
 The starter code for this homework is available [here](homework_materials/hw3_starter_code.zip).  
@@ -44,9 +53,10 @@ The results of these tests will not be made visible until grades are released.
 
 Please submit the following files, with these **exact filenames**:
 - `cleaning.py`
+- `generate.py`
 - `other_scripts.zip` (please zip all other scripts you used, with a README indicating which scripts correspond to each question.)
 
 Since Gradescope has a 100MB size limit, we will submit model checkpoints and code through Canvas: `Homework 3 - Model Checkpoints and Data`.  Please submit these files to Canvas, with these exact filenames:
-- `cleaned_data.arrow`
+- `cleaned_data.arrow.zip`
 - `model-original.pt` (weights from your model trained on uncleaned data)
 - `model-clean.pt` (weights from your model trained on cleaned data)
