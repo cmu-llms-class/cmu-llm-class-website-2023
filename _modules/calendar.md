@@ -167,8 +167,7 @@ Thursday, Nov 16
 
 Tuesday, Nov 21
 : Efficient Serving (Guest Lecture from [Beidi Chen](https://www.andrew.cmu.edu/user/beidic/))
-  : 
-  <!-- : [Slides](#) -->
+  : [Slides](https://www.andrew.cmu.edu/course/11-667/lectures/guest_lecture_beidi.pdf)
 : Readings: [H2O](https://arxiv.org/abs/2306.14048), [StreamLB](https://arxiv.org/abs/2309.17453)
 
 Thursday, Nov 23
