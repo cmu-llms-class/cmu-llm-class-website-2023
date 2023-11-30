@@ -51,9 +51,10 @@ Please submit your a pdf file `[andrew-id].pdf` with answers to the written ques
 We will be evaluating code in Section 4 of the assignment through the autograder in Gradescope, but you should submit all the code that you used to complete the assignment.
 The results of these tests will not be made visible until grades are released.  
 
-Please submit the following files, with these **exact filenames**:
+Please submit the following files, with these **exact filenames**. Do not place your files in a directory, as the tests will not run properly.
 - `cleaning.py`
 - `generate.py`
+- `tokenization.py`
 - `other_scripts.zip` (please zip all other scripts you used, with a README indicating which scripts correspond to each question.)
 
 Since Gradescope has a 100MB size limit, we will submit model checkpoints and code through Canvas: `Homework 3 - Model Checkpoints and Data`.  Please submit these files to Canvas, with these exact filenames:
