@@ -182,9 +182,9 @@ Tuesday, Nov 28
 : Readings: [TODO](#)
 
 Thursday, Nov 30
-: **HW3 DUE**{: .label .label-yellow }; **Industry Talk: Cohere**; Privacy, Security, and Legal Considerations
+: **HW3 DUE**{: .label .label-yellow }; **Industry Talk: Cohere**; Legal Considerations (Guest Lecture from [A Feder Cooper](https://afedercooper.info/))
   <!-- : [Slides](#) -->
-: Readings: [TODO](#)
+: Readings: [AI Supply Chain](https://arxiv.org/abs/2309.08133)
 
 Tuesday, Dec 5
 : Ethical Considerations and Model Bias (Guest Lecture from [Maarten Sap](https://maartensap.com/))
