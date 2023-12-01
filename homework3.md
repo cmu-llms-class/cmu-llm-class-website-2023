@@ -49,12 +49,16 @@ Please submit your a pdf file `[andrew-id].pdf` with answers to the written ques
 
 `Homework 3 - Code` contains an autograder that will grade your code with the same unit tests provided in the homework.  
 We will be evaluating code in Section 4 of the assignment through the autograder in Gradescope, but you should submit all the code that you used to complete the assignment.
-The results of these tests will not be made visible until grades are released.  
 
-Please submit the following files, with these **exact filenames**. Do not place your files in a directory, as the tests will not run properly.
+For the autograder unit tests, please submit the following files on Gradescope with these **exact filenames**. Do not place your files in a directory, as the tests will not run properly.
 - `cleaning.py`
-- `generate.py`
 - `tokenization.py`
+
+We will also be manually grading and inspecting other parts of your code. To make manual grading possible, please submit the following:
+- `model.py` (if using your HW2 code, include the implementation of your model)
+- `config.yaml` (if using your HW2 code, include the config file to load your model)
+- `generate.py`
+- `test_other.py` (your custom test cases for Q3.3.4)
 - `other_scripts.zip` (please zip all other scripts you used, with a README indicating which scripts correspond to each question.)
 
 Since Gradescope has a 100MB size limit, we will submit model checkpoints and code through Canvas: `Homework 3 - Model Checkpoints and Data`.  Please submit these files to Canvas, with these exact filenames:
