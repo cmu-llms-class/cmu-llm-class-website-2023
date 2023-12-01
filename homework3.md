@@ -54,12 +54,12 @@ For the autograder unit tests, please submit the following files on Gradescope w
 - `cleaning.py`
 - `tokenization.py`
 
-We will also be manually grading and inspecting other parts of your code. To make manual grading possible, please submit the following:
+We will also be manually grading and inspecting other parts of your code. To make manual grading possible, please submit the following (also on Gradescope):
 - `model.py` (if using your HW2 code, include the implementation of your model)
 - `config.yaml` (if using your HW2 code, include the config file to load your model)
 - `generate.py`
 - `test_other.py` (your custom test cases for Q3.3.4)
-- `other_scripts.zip` (please zip all other scripts you used, with a README indicating which scripts correspond to each question.)
+- `other_scripts.zip` (optional, but if other scripts are used, please zip and include a README indicating which scripts correspond to each question)
 
 Since Gradescope has a 100MB size limit, we will submit model checkpoints and code through Canvas: `Homework 3 - Model Checkpoints and Data`.  Please submit these files to Canvas, with these exact filenames:
 - `cleaned_data.arrow.zip`
