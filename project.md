@@ -22,7 +22,7 @@ Team: Form a team of 3-5 people. Four is recommended.
 ## Final Deliverables Instructions
 You have three deliverables in the final weeks of class.
 
-* **Due December 7, 3-4:30 PM**: In class poster session.
+* **Due December 7, 2-3:30 PM**: In class poster session.
   * The library has some [good resources](https://www.cmu.edu/student-success/other-resources/resource-descriptions/science-research-posters.html) on designing an effective poster.
   * **VERY IMPORTANT**: You can print your poster for free following [this link](https://computing.cs.cmu.edu/desktop/printing-posters), but you should expect posters to take 2-3 days to print, so make sure to submit your poster early enough that it is ready! We will not accept excuses for posters not ready in time.
   * During the poster session, the instructors and TAs will visit your poster and ask you to go through it. They will also ask questions about your work.
