@@ -30,7 +30,7 @@ You have three deliverables in the final weeks of class.
   * You should write your project report following the conventions of an 8-page ACL paper. Experimental details which do not fit within 8 pages may be included in an Appendix.
   * Grading: Your report will be graded by TAs instructors OTHER than your assigned mentor. They will grade following the [ARR reviewer rubric](https://aclrollingreview.org/reviewform). Like an ACL paper, your report should be self-contained and comprehensible to someone unfamiliar with your project.
 * **Final peer feedback**
-  * **Due December 11 at 8 PM**: At the poster session, choose two posters to fill out the [following form]() over.
+  * **Due December 11 at 8 PM**: At the poster session, choose five posters to fill out the [following form](https://forms.gle/tqWiBjJ7A7NBVW1S7) over.
 
 If you have been given permission to not attend the final poster sessions (for example, if you will be presenting at EMNLP), please schedule a meeting with Daphne and Chenyan sometime December 4-14 to present your poster to us. This will be an individual meeting. Your team will still be expected to show up to the in-person poster session on December 7.
 
